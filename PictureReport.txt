@@ -1,0 +1,2 @@
+Name | Year | Nominations | Rating | Duration | Genre 1 | Genre 2 | Release | Metacritic | Synopsis 
+dances with wolves,1990,12,8,666,adventure,drama,november,72,lt john dunbar exiled to a remote western civil war outpost befriends wolves and indians making him an intolerable aberration in the military

@@ -1,0 +1,1689 @@
+2006,actress in a supporting role,0,abigail breslin,little miss sunshine
+1984,actor in a supporting role,0,adolph caesar,a soldier's story
+1931,actor in a leading role,0,adolphe menjou,the front page
+2006,actress in a supporting role,0,adriana barraza,babel
+2002,actor in a leading role,1,adrien brody,the pianist
+1942,actress in a supporting role,0,agnes moorehead,the magnificent ambersons
+1944,actress in a supporting role,0,agnes moorehead,mrs parkington
+1948,actress in a supporting role,0,agnes moorehead,johnny belinda
+1964,actress in a supporting role,0,agnes moorehead,hushhush sweet charlotte
+1936,actor in a supporting role,0,akim tamiroff,the general died at dawn
+1943,actor in a supporting role,0,akim tamiroff,for whom the bell tolls
+1972,actor in a supporting role,0,al pacino,the godfather
+1973,actor in a leading role,0,al pacino,serpico
+1974,actor in a leading role,0,al pacino,the godfather part ii
+1975,actor in a leading role,0,al pacino,dog day afternoon
+1979,actor in a leading role,0,al pacino,and justice for all
+1990,actor in a supporting role,0,al pacino,dick tracy
+1992,actor in a leading role,1,al pacino,scent of a woman
+1992,actor in a supporting role,0,al pacino,glengarry glen ross
+2004,actor in a supporting role,0,alan alda,the aviator
+1966,actor in a leading role,0,alan arkin,the russians are coming the russians are coming
+1968,actor in a leading role,0,alan arkin,the heart is a lonely hunter
+2006,actor in a supporting role,1,alan arkin,little miss sunshine
+2012,actor in a supporting role,0,alan arkin,argo
+1968,actor in a leading role,0,alan bates,the fixer
+1940,actor in a supporting role,0,albert basserman,foreign correspondent
+1987,actor in a supporting role,0,albert brooks,broadcast news
+1963,actor in a leading role,0,albert finney,tom jones
+1974,actor in a leading role,0,albert finney,murder on the orient express
+1983,actor in a leading role,0,albert finney,the dresser
+1984,actor in a leading role,0,albert finney,under the volcano
+2000,actor in a supporting role,0,albert finney,erin brockovich
+2003,actor in a supporting role,0,alec baldwin,the cooler
+1952,actor in a leading role,0,alec guinness,the lavender hill mob
+1957,actor in a leading role,1,alec guinness,the bridge on the river kwai
+1977,actor in a supporting role,0,alec guinness,star wars
+1988,actor in a supporting role,0,alec guinness,little dorrit
+1944,actor in a leading role,0,alexander knox,wilson
+1983,actress in a supporting role,0,alfre woodard,cross creek
+1932,actor in a leading role,0,alfred lunt,the guardsman
+1970,actress in a leading role,0,ali macgraw,love story
+1936,actress in a supporting role,0,alice brady,my man godfrey
+1937,actress in a supporting role,1,alice brady,in old chicago
+2015,actress in a supporting role,1,alicia vikander,the danish girl
+1944,actress in a supporting role,0,aline macmahon,dragon seed
+2005,actress in a supporting role,0,amy adams,junebug
+2008,actress in a supporting role,0,amy adams,doubt
+2010,actress in a supporting role,0,amy adams,the fighter
+2012,actress in a supporting role,0,amy adams,the master
+2013,actress in a leading role,0,amy adams,american hustle
+1983,actress in a supporting role,0,amy irving,yentl
+1985,actress in a supporting role,0,amy madigan,twice in a lifetime
+2007,actress in a supporting role,0,amy ryan,gone baby gone
+1937,actress in a supporting role,0,andrea leeds,stage door
+2016,actor in a leading role,0,andrew garfield,hacksaw ridge
+1990,actor in a supporting role,0,andy garcia,the godfather part iii
+1993,actress in a leading role,0,angela bassett,what's love got to do with it
+1944,actress in a supporting role,0,angela lansbury,gaslight
+1945,actress in a supporting role,0,angela lansbury,the picture of dorian gray
+1962,actress in a supporting role,0,angela lansbury,the manchurian candidate
+1999,actress in a supporting role,1,angelina jolie,girl interrupted
+2008,actress in a leading role,0,angelina jolie,changeling
+1985,actress in a supporting role,1,anjelica huston,prizzi's honor
+1989,actress in a supporting role,0,anjelica huston,enemies a love story
+1990,actress in a leading role,0,anjelica huston,the grifters
+1945,actress in a supporting role,0,ann blyth,mildred pierce
+1931,actress in a leading role,0,ann harding,holiday
+1987,actress in a supporting role,0,ann sothern,the whales of august
+2009,actress in a supporting role,0,anna kendrick,up in the air
+1955,actress in a leading role,1,anna magnani,the rose tattoo
+1957,actress in a leading role,0,anna magnani,wild is the wind
+1993,actress in a supporting role,1,anna paquin,the piano
+1987,actress in a supporting role,0,anne archer,fatal attraction
+1962,actress in a leading role,1,anne bancroft,the miracle worker
+1964,actress in a leading role,0,anne bancroft,the pumpkin eater
+1967,actress in a leading role,0,anne bancroft,the graduate
+1977,actress in a leading role,0,anne bancroft,the turning point
+1985,actress in a leading role,0,anne bancroft,agnes of god
+1946,actress in a supporting role,1,anne baxter,the razor's edge
+1950,actress in a leading role,0,anne baxter,all about eve
+2008,actress in a leading role,0,anne hathaway,rachel getting married
+2012,actress in a supporting role,1,anne hathaway,les misrables
+1987,actress in a supporting role,0,anne ramsey,throw momma from the train
+1943,actress in a supporting role,0,anne revere,the song of bernadette
+1945,actress in a supporting role,1,anne revere,national velvet
+1947,actress in a supporting role,0,anne revere,gentleman's agreement
+1937,actress in a supporting role,0,anne shirley,stella dallas
+1990,actress in a supporting role,0,annette bening,the grifters
+1999,actress in a leading role,0,annette bening,american beauty
+2004,actress in a leading role,0,annette bening,being julia
+2010,actress in a leading role,0,annette bening,the kids are all right
+1971,actress in a supporting role,0,annmargret,carnal knowledge
+1975,actress in a leading role,0,annmargret,tommy
+1966,actress in a leading role,0,anouk aimee,a man and a woman
+1957,actor in a leading role,0,anthony franciosa,a hatful of rain
+1991,actor in a leading role,1,anthony hopkins,the silence of the lambs
+1993,actor in a leading role,0,anthony hopkins,the remains of the day
+1995,actor in a leading role,0,anthony hopkins,nixon
+1997,actor in a supporting role,0,anthony hopkins,amistad
+1956,actor in a supporting role,0,anthony perkins,friendly persuasion
+1969,actor in a supporting role,0,anthony quayle,anne of the thousand days
+1952,actor in a supporting role,1,anthony quinn,viva zapata
+1956,actor in a supporting role,1,anthony quinn,lust for life
+1957,actor in a leading role,0,anthony quinn,wild is the wind
+1964,actor in a leading role,0,anthony quinn,zorba the greek
+1996,actor in a supporting role,0,armin muellerstahl,shine
+1974,actor in a leading role,1,art carney,harry and tonto
+1952,actor in a supporting role,0,arthur hunnicutt,the big sky
+1949,actor in a supporting role,0,arthur kennedy,champion
+1951,actor in a leading role,0,arthur kennedy,bright victory
+1955,actor in a supporting role,0,arthur kennedy,trial
+1957,actor in a supporting role,0,arthur kennedy,peyton place
+1958,actor in a supporting role,0,arthur kennedy,some came running
+1955,actor in a supporting role,0,arthur o'connell,picnic
+1959,actor in a supporting role,0,arthur o'connell,anatomy of a murder
+1953,actress in a leading role,1,audrey hepburn,roman holiday
+1954,actress in a leading role,0,audrey hepburn,sabrina
+1959,actress in a leading role,0,audrey hepburn,the nun's story
+1961,actress in a leading role,0,audrey hepburn,breakfast at tiffany's
+1967,actress in a leading role,0,audrey hepburn,wait until dark
+1953,actress in a leading role,0,ava gardner,mogambo
+1979,actress in a supporting role,0,barbara barrie,breaking away
+1948,actress in a supporting role,0,barbara bel geddes,i remember mama
+1971,actress in a supporting role,0,barbara harris,who is harry kellerman and why is he saying those terrible things about me
+1996,actress in a supporting role,0,barbara hershey,the portrait of a lady
+1940,actress in a supporting role,0,barbara o'neil,all this and heaven too
+1937,actress in a leading role,0,barbara stanwyck,stella dallas
+1941,actress in a leading role,0,barbara stanwyck,ball of fire
+1944,actress in a leading role,0,barbara stanwyck,double indemnity
+1948,actress in a leading role,0,barbara stanwyck,sorry wrong number
+1968,actress in a leading role,1,barbra streisand,funny girl
+1973,actress in a leading role,0,barbra streisand,the way we were
+2013,actor in a supporting role,0,barkhad abdi,captain phillips
+1944,actor in a supporting role,1,barry fitzgerald,going my way
+1944,actor in a leading role,0,barry fitzgerald,going my way
+1936,actor in a supporting role,0,basil rathbone,romeo and juliet
+1938,actor in a supporting role,0,basil rathbone,if i were king
+1967,actress in a supporting role,0,beah richards,guess who's coming to dinner
+1976,actress in a supporting role,1,beatrice straight,network
+1971,actor in a supporting role,1,ben johnson,the last picture show
+1982,actor in a leading role,1,ben kingsley,gandhi
+1991,actor in a supporting role,0,ben kingsley,bugsy
+2001,actor in a supporting role,0,ben kingsley,sexy beast
+2003,actor in a leading role,0,ben kingsley,house of sand and fog
+2014,actor in a leading role,0,benedict cumberbatch,the imitation game
+2000,actor in a supporting role,1,benicio del toro,traffic
+2003,actor in a supporting role,0,benicio del toro,21 grams
+1929,actress in a leading role,0,bessie love,the broadway melody
+1955,actress in a supporting role,0,betsy blair,marty
+1934,actress in a leading role,0,bette davis,of human bondage
+1935,actress in a leading role,1,bette davis,dangerous
+1938,actress in a leading role,1,bette davis,jezebel
+1939,actress in a leading role,0,bette davis,dark victory
+1940,actress in a leading role,0,bette davis,the letter
+1941,actress in a leading role,0,bette davis,the little foxes
+1942,actress in a leading role,0,bette davis,now voyager
+1944,actress in a leading role,0,bette davis,mr skeffington
+1950,actress in a leading role,0,bette davis,all about eve
+1952,actress in a leading role,0,bette davis,the star
+1962,actress in a leading role,0,bette davis,what ever happened to baby jane
+1979,actress in a leading role,0,bette midler,the rose
+1991,actress in a leading role,0,bette midler,for the boys
+1929,actress in a leading role,0,betty compson,the barker
+1936,actress in a supporting role,0,beulah bondi,the gorgeous hussy
+1938,actress in a supporting role,0,beulah bondi,of human hearts
+2003,actor in a leading role,0,bill murray,lost in translation
+1938,actress in a supporting role,0,billie burke,merrily we live
+1996,actor in a leading role,0,billy bob thornton,sling blade
+1998,actor in a supporting role,0,billy bob thornton,a simple plan
+1944,actor in a leading role,1,bing crosby,going my way
+1945,actor in a leading role,0,bing crosby,the bells of st mary's
+1954,actor in a leading role,0,bing crosby,the country girl
+1986,actor in a leading role,0,bob hoskins,mona lisa
+1963,actor in a supporting role,0,bobby darin,captain newman md
+1936,actress in a supporting role,0,bonita granville,these three
+1975,actor in a supporting role,0,brad dourif,one flew over the cuckoo's nest
+1995,actor in a supporting role,0,brad pitt,12 monkeys
+2008,actor in a leading role,0,brad pitt,the curious case of benjamin button
+2011,actor in a leading role,0,brad pitt,moneyball
+2012,actor in a leading role,0,bradley cooper,silver linings playbook
+2013,actor in a supporting role,0,bradley cooper,american hustle
+2014,actor in a leading role,0,bradley cooper,american sniper
+1953,actor in a supporting role,0,brandon de wilde,shane
+1996,actress in a leading role,0,brenda blethyn,secrets  lies
+1998,actress in a supporting role,0,brenda blethyn,little voice
+1989,actress in a supporting role,1,brenda fricker,my left foot
+1975,actress in a supporting role,0,brenda vaccaro,jacqueline susann's once is not enough
+1939,actor in a supporting role,0,brian aherne,juarez
+1939,actor in a supporting role,0,brian donlevy,beau geste
+2015,actress in a leading role,1,brie larson,room
+2011,actress in a supporting role,0,brnice bejo,the artist
+1949,actor in a leading role,1,broderick crawford,all the king's men
+1990,actor in a supporting role,0,bruce davison,longtime companion
+1978,actor in a supporting role,0,bruce dern,coming home
+2013,actor in a leading role,0,bruce dern,nebraska
+2015,actor in a leading role,0,bryan cranston,trumbo
+1975,actor in a supporting role,0,burgess meredith,the day of the locust
+1976,actor in a supporting role,0,burgess meredith,rocky
+1958,actor in a supporting role,1,burl ives,the big country
+1953,actor in a leading role,0,burt lancaster,from here to eternity
+1960,actor in a leading role,1,burt lancaster,elmer gantry
+1962,actor in a leading role,0,burt lancaster,birdman of alcatraz
+1981,actor in a leading role,0,burt lancaster,atlantic city
+1997,actor in a supporting role,0,burt reynolds,boogie nights
+1976,actor in a supporting role,0,burt young,rocky
+1979,actress in a supporting role,0,candice bergen,starting over
+1973,actress in a supporting role,0,candy clark,american graffiti
+1958,actress in a supporting role,0,cara williams,the defiant ones
+2009,actress in a leading role,0,carey mulligan,an education
+1967,actress in a supporting role,0,carol channing,thoroughly modern millie
+1975,actress in a leading role,0,carol kane,hester street
+1936,actress in a leading role,0,carole lombard,my man godfrey
+1957,actress in a supporting role,0,carolyn jones,the bachelor party
+1970,actress in a leading role,0,carrie snodgress,diary of a mad housewife
+1956,actress in a leading role,0,carroll baker,baby doll
+1941,actor in a leading role,0,cary grant,penny serenade
+1944,actor in a leading role,0,cary grant,none but the lonely heart
+2007,actor in a supporting role,0,casey affleck,the assassination of jesse james by the coward robert ford
+2016,actor in a leading role,0,casey affleck,manchester by the sea
+2004,actress in a leading role,0,catalina sandino moreno,maria full of grace
+1998,actress in a leading role,0,cate blanchett,elizabeth
+2004,actress in a supporting role,1,cate blanchett,the aviator
+2006,actress in a supporting role,0,cate blanchett,notes on a scandal
+2007,actress in a leading role,0,cate blanchett,elizabeth the golden age
+2007,actress in a supporting role,0,cate blanchett,i'm not there
+2013,actress in a leading role,1,cate blanchett,blue jasmine
+2015,actress in a leading role,0,cate blanchett,carol
+1969,actress in a supporting role,0,catherine burns,last summer
+1992,actress in a leading role,0,catherine deneuve,indochine
+1999,actress in a supporting role,0,catherine keener,being john malkovich
+2005,actress in a supporting role,0,catherine keener,capote
+2002,actress in a supporting role,1,catherine zetajones,chicago
+1980,actress in a supporting role,0,cathy moriarty,raging bull
+1948,actor in a supporting role,0,cecil kellaway,the luck of the irish
+1967,actor in a supporting role,0,cecil kellaway,guess who's coming to dinner
+1947,actress in a supporting role,1,celeste holm,gentleman's agreement
+1949,actress in a supporting role,0,celeste holm,come to the stable
+1950,actress in a supporting role,0,celeste holm,all about eve
+1946,actress in a leading role,0,celia johnson,brief encounter
+1943,actor in a supporting role,0,charles bickford,the song of bernadette
+1947,actor in a supporting role,0,charles bickford,the farmer's daughter
+1948,actor in a supporting role,0,charles bickford,johnny belinda
+1937,actor in a leading role,0,charles boyer,conquest
+1938,actor in a leading role,0,charles boyer,algiers
+1944,actor in a leading role,0,charles boyer,gaslight
+1961,actor in a leading role,0,charles boyer,fanny
+1940,actor in a leading role,0,charles chaplin,the great dictator
+1941,actor in a supporting role,0,charles coburn,the devil and miss jones
+1943,actor in a supporting role,1,charles coburn,the more the merrier
+1946,actor in a supporting role,0,charles coburn,the green years
+1982,actor in a supporting role,0,charles durning,the best little whorehouse in texas
+1983,actor in a supporting role,0,charles durning,to be or not to be
+1933,actor in a leading role,1,charles laughton,the private life of henry viii
+1935,actor in a leading role,0,charles laughton,mutiny on the bounty
+1957,actor in a leading role,0,charles laughton,witness for the prosecution
+2003,actress in a leading role,1,charlize theron,monster
+2005,actress in a leading role,0,charlize theron,north country
+2015,actress in a leading role,0,charlotte rampling,45 years
+1959,actor in a leading role,1,charlton heston,benhur
+1994,actor in a supporting role,0,chazz palminteri,bullets over broadway
+1983,actress in a supporting role,0,cher,silkwood
+1987,actress in a leading role,1,cher,moonstruck
+1929,actor in a leading role,0,chester morris,alibi
+1970,actor in a supporting role,0,chief dan george,little big man
+1960,actor in a supporting role,0,chill wills,the alamo
+2013,actor in a leading role,0,chiwetel ejiofor,12 years a slave
+1999,actress in a supporting role,0,chlo sevigny,boys don't cry
+2002,actor in a supporting role,1,chris cooper,adaptation
+1975,actor in a supporting role,0,chris sarandon,dog day afternoon
+2010,actor in a supporting role,1,christian bale,the fighter
+2013,actor in a leading role,0,christian bale,american hustle
+2015,actor in a supporting role,0,christian bale,the big short
+1984,actress in a supporting role,0,christine lahti,swing shift
+2009,actor in a supporting role,1,christoph waltz,inglourious basterds
+2012,actor in a supporting role,1,christoph waltz,django unchained
+2009,actor in a supporting role,0,christopher plummer,the last station
+2011,actor in a supporting role,1,christopher plummer,beginners
+1978,actor in a supporting role,1,christopher walken,the deer hunter
+2002,actor in a supporting role,0,christopher walken,catch me if you can
+1972,actress in a leading role,0,cicely tyson,sounder
+1937,actress in a supporting role,0,claire trevor,dead end
+1948,actress in a supporting role,1,claire trevor,key largo
+1954,actress in a supporting role,0,claire trevor,the high and the mighty
+1934,actor in a leading role,1,clark gable,it happened one night
+1935,actor in a leading role,0,clark gable,mutiny on the bounty
+1939,actor in a leading role,0,clark gable,gone with the wind
+1939,actor in a supporting role,0,claude rains,mr smith goes to washington
+1943,actor in a supporting role,0,claude rains,casablanca
+1944,actor in a supporting role,0,claude rains,mr skeffington
+1946,actor in a supporting role,0,claude rains,notorious
+1934,actress in a leading role,1,claudette colbert,it happened one night
+1935,actress in a leading role,0,claudette colbert,private worlds
+1944,actress in a leading role,0,claudette colbert,since you went away
+1968,actor in a leading role,1,cliff robertson,charly
+1944,actor in a supporting role,0,clifton webb,laura
+1946,actor in a supporting role,0,clifton webb,the razor's edge
+1948,actor in a leading role,0,clifton webb,sitting pretty
+1992,actor in a leading role,0,clint eastwood,unforgiven
+2004,actor in a leading role,0,clint eastwood,million dollar baby
+2004,actor in a supporting role,0,clive owen,closer
+1971,actress in a supporting role,1,cloris leachman,the last picture show
+1952,actress in a supporting role,0,colette marchand,moulin rouge
+2009,actor in a leading role,0,colin firth,a single man
+2010,actor in a leading role,1,colin firth,the king's speech
+1929,actress in a leading role,0,corinne griffith,the divine lady
+1945,actor in a leading role,0,cornel wilde,a song to remember
+1996,actor in a supporting role,1,cuba gooding, jrjerry maguire
+1963,actress in a supporting role,0,dame edith evans,tom jones
+1964,actress in a supporting role,0,dame edith evans,the chalk garden
+1967,actress in a leading role,0,dame edith evans,the whisperers
+1937,actress in a supporting role,0,dame may whitty,night must fall
+1942,actress in a supporting role,0,dame may whitty,mrs miniver
+1989,actor in a supporting role,0,dan aykroyd,driving miss daisy
+1948,actor in a leading role,0,dan dailey,when my baby smiles at me
+1954,actor in a leading role,0,dan o'herlihy,adventures of robinson crusoe
+1989,actor in a leading role,1,daniel day lewis,my left foot
+1993,actor in a leading role,0,daniel daylewis,in the name of the father
+2002,actor in a leading role,0,daniel daylewis,gangs of new york
+2007,actor in a leading role,1,daniel daylewis,there will be blood
+2012,actor in a leading role,1,daniel daylewis,lincoln
+1968,actor in a supporting role,0,daniel massey,star
+1989,actor in a supporting role,0,danny aiello,do the right thing
+1958,actor in a leading role,1,david niven,separate tables
+1992,actor in a supporting role,0,david paymer,mr saturday night
+2005,actor in a leading role,0,david strathairn,good night and good luck
+1949,actor in a supporting role,1,dean jagger,twelve o'clock high
+1988,actor in a supporting role,0,dean stockwell,married to the mob
+1964,actress in a leading role,0,debbie reynolds,the unsinkable molly brown
+1949,actress in a leading role,0,deborah kerr,edward my son
+1953,actress in a leading role,0,deborah kerr,from here to eternity
+1956,actress in a leading role,0,deborah kerr,the king and i
+1957,actress in a leading role,0,deborah kerr,heaven knows mr allison
+1958,actress in a leading role,0,deborah kerr,separate tables
+1960,actress in a leading role,0,deborah kerr,the sundowners
+1982,actress in a leading role,0,debra winger,an officer and a gentleman
+1983,actress in a leading role,0,debra winger,terms of endearment
+1993,actress in a leading role,0,debra winger,shadowlands
+2011,actor in a leading role,0,demin bichir,a better life
+1986,actor in a supporting role,0,denholm elliott,a room with a view
+1986,actor in a supporting role,0,dennis hopper,hoosiers
+1987,actor in a supporting role,0,denzel washington,cry freedom
+1989,actor in a supporting role,1,denzel washington,glory
+1992,actor in a leading role,0,denzel washington,malcolm x
+1999,actor in a leading role,0,denzel washington,the hurricane
+2001,actor in a leading role,1,denzel washington,training day
+2012,actor in a leading role,0,denzel washington,flight
+2016,actor in a leading role,0,denzel washington,fences
+2016,actor in a supporting role,0,dev patel,lion
+1986,actor in a leading role,0,dexter gordon,'round midnight
+1974,actress in a leading role,0,diahann carroll,claudine
+1972,actress in a leading role,0,diana ross,lady sings the blues
+1980,actress in a supporting role,0,diana scarwid,inside moves
+1933,actress in a leading role,0,diana wynyard,cavalcade
+1963,actress in a supporting role,0,diane cilento,tom jones
+1977,actress in a leading role,1,diane keaton,annie hall
+1981,actress in a leading role,0,diane keaton,reds
+1996,actress in a leading role,0,diane keaton,marvin's room
+2003,actress in a leading role,0,diane keaton,something's gotta give
+1974,actress in a supporting role,0,diane ladd,alice doesn't live here anymore
+1990,actress in a supporting role,0,diane ladd,wild at heart
+1991,actress in a supporting role,0,diane ladd,rambling rose
+2002,actress in a leading role,0,diane lane,unfaithful
+1957,actress in a supporting role,0,diane varsi,peyton place
+1986,actress in a supporting role,1,dianne wiest,hannah and her sisters
+1989,actress in a supporting role,0,dianne wiest,parenthood
+1994,actress in a supporting role,1,dianne wiest,bullets over broadway
+2003,actor in a supporting role,0,djimon hounsou,in america
+2006,actor in a supporting role,0,djimon hounsou,blood diamond
+1985,actor in a supporting role,1,don ameche,cocoon
+2004,actor in a leading role,0,don cheadle,hotel rwanda
+1956,actor in a supporting role,0,don murray,bus stop
+1941,actor in a supporting role,1,donald crisp,how green was my valley
+1953,actress in a supporting role,1,donna reed,from here to eternity
+1959,actress in a leading role,0,doris day,pillow talk
+1954,actress in a leading role,0,dorothy dandridge,carmen jones
+1956,actress in a supporting role,1,dorothy malone,written on the wind
+1947,actress in a leading role,0,dorothy mcguire,gentleman's agreement
+1981,actor in a leading role,0,dudley moore,arthur
+1967,actor in a leading role,0,dustin hoffman,the graduate
+1969,actor in a leading role,0,dustin hoffman,midnight cowboy
+1974,actor in a leading role,0,dustin hoffman,lenny
+1979,actor in a leading role,1,dustin hoffman,kramer vs kramer
+1982,actor in a leading role,0,dustin hoffman,tootsie
+1988,actor in a leading role,1,dustin hoffman,rain man
+1997,actor in a leading role,0,dustin hoffman,wag the dog
+1969,actress in a supporting role,0,dyan cannon,bob  carol  ted  alice
+1978,actress in a supporting role,0,dyan cannon,heaven can wait
+1962,actor in a supporting role,1,ed begley,sweet bird of youth
+1995,actor in a supporting role,0,ed harris,apollo 13
+1998,actor in a supporting role,0,ed harris,the truman show
+2000,actor in a leading role,0,ed harris,pollock
+2002,actor in a supporting role,0,ed harris,the hours
+1959,actor in a supporting role,0,ed wynn,the diary of anne frank
+1953,actor in a supporting role,0,eddie albert,roman holiday
+1972,actor in a supporting role,0,eddie albert,the heartbreak kid
+2006,actor in a supporting role,0,eddie murphy,dreamgirls
+2014,actor in a leading role,1,eddie redmayne,the theory of everything
+2015,actor in a leading role,0,eddie redmayne,the danish girl
+1954,actor in a supporting role,1,edmond o'brien,the barefoot contessa
+1964,actor in a supporting role,0,edmond o'brien,seven days in may
+1947,actor in a supporting role,1,edmund gwenn,miracle on 34th street
+1950,actor in a supporting role,0,edmund gwenn,mister 880
+1939,actress in a supporting role,0,edna may oliver,drums along the mohawk
+1988,actor in a leading role,0,edward james olmos,stand and deliver
+1996,actor in a supporting role,0,edward norton,primal fear
+1998,actor in a leading role,0,edward norton,american history x
+2014,actor in a supporting role,0,edward norton,birdman or the unexpected virtue of ignorance
+1980,actress in a supporting role,0,eileen brennan,private benjamin
+1956,actress in a supporting role,0,eileen heckart,the bad seed
+1972,actress in a supporting role,1,eileen heckart,butterflies are free
+1950,actress in a leading role,0,eleanor parker,caged
+1951,actress in a leading role,0,eleanor parker,detective story
+1955,actress in a leading role,0,eleanor parker,interrupted melody
+1935,actress in a leading role,0,elisabeth bergner,escape me never
+1995,actress in a leading role,0,elisabeth shue,leaving las vegas
+1965,actress in a leading role,0,elizabeth hartman,a patch of blue
+1981,actress in a supporting role,0,elizabeth mcgovern,ragtime
+1957,actress in a leading role,0,elizabeth taylor,raintree county
+1958,actress in a leading role,0,elizabeth taylor,cat on a hot tin roof
+1959,actress in a leading role,0,elizabeth taylor,suddenly last summer
+1960,actress in a leading role,1,elizabeth taylor,butterfield 8
+1966,actress in a leading role,1,elizabeth taylor,who's afraid of virginia woolf
+1971,actress in a supporting role,0,ellen burstyn,the last picture show
+1973,actress in a leading role,0,ellen burstyn,the exorcist
+1974,actress in a leading role,1,ellen burstyn,alice doesn't live here anymore
+1978,actress in a leading role,0,ellen burstyn,same time next year
+1980,actress in a leading role,0,ellen burstyn,resurrection
+2000,actress in a leading role,0,ellen burstyn,requiem for a dream
+1948,actress in a supporting role,0,ellen corby,i remember mama
+2007,actress in a leading role,0,ellen page,juno
+1969,actor in a supporting role,0,elliott gould,bob  carol  ted  alice
+1949,actress in a supporting role,0,elsa lanchester,come to the stable
+1957,actress in a supporting role,0,elsa lanchester,witness for the prosecution
+1928,no award,1,emil jannings,the last command
+1996,actress in a leading role,0,emily watson,breaking the waves
+1998,actress in a leading role,0,emily watson,hilary and jackie
+2014,actress in a supporting role,0,emma stone,birdman or the unexpected virtue of ignorance
+2016,actress in a leading role,0,emma stone,la la land
+1992,actress in a leading role,1,emma thompson,howards end
+1993,actress in a leading role,0,emma thompson,the remains of the day
+1993,actress in a supporting role,0,emma thompson,in the name of the father
+1995,actress in a leading role,0,emma thompson,sense and sensibility
+2012,actress in a leading role,0,emmanuelle riva,amour
+1985,actor in a supporting role,0,eric roberts,runaway train
+1950,actor in a supporting role,0,erich von stroheim,sunset blvd
+1955,actor in a leading role,1,ernest borgnine,marty
+1967,actress in a supporting role,1,estelle parsons,bonnie and clyde
+1968,actress in a supporting role,0,estelle parsons,rachel rachel
+2001,actor in a supporting role,0,ethan hawke,training day
+2014,actor in a supporting role,0,ethan hawke,boyhood
+1944,actress in a supporting role,1,ethel barrymore,none but the lonely heart
+1946,actress in a supporting role,0,ethel barrymore,the spiral staircase
+1947,actress in a supporting role,0,ethel barrymore,the paradine case
+1949,actress in a supporting role,0,ethel barrymore,pinky
+1949,actress in a supporting role,0,ethel waters,pinky
+1980,actress in a supporting role,0,eva le gallienne,resurrection
+1954,actress in a supporting role,1,eva marie saint,on the waterfront
+1945,actress in a supporting role,0,eve arden,mildred pierce
+1984,actor in a leading role,1,f murray abraham,amadeus
+1938,actress in a supporting role,1,fay bainter,jezebel
+1938,actress in a leading role,0,fay bainter,white banners
+1961,actress in a supporting role,0,fay bainter,the children's hour
+1967,actress in a leading role,0,faye dunaway,bonnie and clyde
+1974,actress in a leading role,0,faye dunaway,chinatown
+1976,actress in a leading role,1,faye dunaway,network
+2005,actress in a leading role,0,felicity huffman,transamerica
+2014,actress in a leading role,0,felicity jones,the theory of everything
+1998,actress in a leading role,0,fernanda montenegro,central station
+1946,actress in a supporting role,0,flora robson,saratoga trunk
+2006,actor in a leading role,1,forest whitaker,the last king of scotland
+1988,actress in a supporting role,0,frances mcdormand,mississippi burning
+1996,actress in a leading role,1,frances mcdormand,fargo
+2000,actress in a supporting role,0,frances mcdormand,almost famous
+2005,actress in a supporting role,0,frances mcdormand,north country
+1935,actor in a leading role,0,franchot tone,mutiny on the bounty
+1965,actor in a supporting role,0,frank finlay,othello
+2008,actor in a leading role,0,frank langella,frostnixon
+1934,actor in a leading role,0,frank morgan,the affairs of cellini
+1942,actor in a supporting role,0,frank morgan,tortilla flat
+1953,actor in a supporting role,1,frank sinatra,from here to eternity
+1955,actor in a leading role,0,frank sinatra,the man with the golden arm
+1974,actor in a supporting role,0,fred astaire,the towering inferno
+1979,actor in a supporting role,0,frederic forrest,the rose
+1931,actor in a leading role,0,fredric march,the royal family of broadway
+1932,actor in a leading role,1,fredric march,dr jekyll and mr hyde
+1937,actor in a leading role,0,fredric march,a star is born
+1946,actor in a leading role,1,fredric march,the best years of our lives
+1951,actor in a leading role,0,fredric march,death of a salesman
+2009,actress in a leading role,0,gabourey sidibe,precious based on the novel 'push' by sapphire
+1936,actress in a supporting role,1,gale sondergaard,anthony adverse
+1946,actress in a supporting role,0,gale sondergaard,anna and the king of siam
+1978,actor in a leading role,0,gary busey,the buddy holly story
+1936,actor in a leading role,0,gary cooper,mr deeds goes to town
+1941,actor in a leading role,1,gary cooper,sergeant york
+1942,actor in a leading role,0,gary cooper,the pride of the yankees
+1943,actor in a leading role,0,gary cooper,for whom the bell tolls
+1952,actor in a leading role,1,gary cooper,high noon
+2011,actor in a leading role,0,gary oldman,tinker tailor soldier spy
+1994,actor in a supporting role,0,gary sinise,forrest gump
+1988,actress in a supporting role,1,geena davis,the accidental tourist
+1991,actress in a leading role,0,geena davis,thelma  louise
+1974,actress in a leading role,0,gena rowlands,a woman under the influence
+1980,actress in a leading role,0,gena rowlands,gloria
+1967,actor in a supporting role,0,gene hackman,bonnie and clyde
+1970,actor in a supporting role,0,gene hackman,i never sang for my father
+1971,actor in a leading role,1,gene hackman,the french connection
+1988,actor in a leading role,0,gene hackman,mississippi burning
+1992,actor in a supporting role,1,gene hackman,unforgiven
+1945,actor in a leading role,0,gene kelly,anchors aweigh
+1938,actor in a supporting role,0,gene lockhart,algiers
+1945,actress in a leading role,0,gene tierney,leave her to heaven
+1968,actor in a supporting role,0,gene wilder,the producers
+1969,actress in a leading role,0,genevieve bujold,anne of the thousand days
+1996,actor in a leading role,1,geoffrey rush,shine
+1998,actor in a supporting role,0,geoffrey rush,shakespeare in love
+2000,actor in a leading role,0,geoffrey rush,quills
+2010,actor in a supporting role,0,geoffrey rush,the king's speech
+1930,actor in a leading role,1,george arliss,disraeli
+1930,actor in a leading role,0,george arliss,the green goddess
+1929,actor in a leading role,0,george bancroft,thunderbolt
+1975,actor in a supporting role,1,george burns,the sunshine boys
+1959,actor in a supporting role,0,george c scott,anatomy of a murder
+1961,actor in a supporting role,0,george c scott,the hustler
+1970,actor in a leading role,1,george c scott,patton
+1971,actor in a leading role,0,george c scott,the hospital
+1961,actor in a supporting role,1,george chakiris,west side story
+2005,actor in a supporting role,1,george clooney,syriana
+2007,actor in a leading role,0,george clooney,michael clayton
+2009,actor in a leading role,0,george clooney,up in the air
+2011,actor in a leading role,0,george clooney,the descendants
+1967,actor in a supporting role,1,george kennedy,cool hand luke
+1950,actor in a supporting role,1,george sanders,all about eve
+1966,actor in a supporting role,0,george segal,who's afraid of virginia woolf
+1939,actress in a supporting role,0,geraldine fitzgerald,wuthering heights
+1953,actress in a supporting role,0,geraldine page,hondo
+1961,actress in a leading role,0,geraldine page,summer and smoke
+1962,actress in a leading role,0,geraldine page,sweet bird of youth
+1966,actress in a supporting role,0,geraldine page,you're a big boy now
+1972,actress in a supporting role,0,geraldine page,pete 'n' tillie
+1978,actress in a leading role,0,geraldine page,interiors
+1984,actress in a supporting role,0,geraldine page,the pope of greenwich village
+1985,actress in a leading role,1,geraldine page,the trip to bountiful
+1990,actor in a leading role,0,gerard depardieu,cyrano de bergerac
+1976,actor in a leading role,0,giancarlo giannini,seven beauties
+1951,actor in a supporting role,0,gig young,come fill the cup
+1958,actor in a supporting role,0,gig young,teacher's pet
+1969,actor in a supporting role,1,gig young,they shoot horses don't they
+1940,actress in a leading role,1,ginger rogers,kitty foyle
+1942,actress in a supporting role,0,gladys cooper,now voyager
+1943,actress in a supporting role,0,gladys cooper,the song of bernadette
+1964,actress in a supporting role,0,gladys cooper,my fair lady
+1936,actress in a leading role,0,gladys george,valiant is the word for carrie
+1970,actress in a leading role,1,glenda jackson,women in love
+1971,actress in a leading role,0,glenda jackson,sunday bloody sunday
+1973,actress in a leading role,1,glenda jackson,a touch of class
+1975,actress in a leading role,0,glenda jackson,hedda
+1982,actress in a supporting role,0,glenn close,the world according to garp
+1983,actress in a supporting role,0,glenn close,the big chill
+1984,actress in a supporting role,0,glenn close,the natural
+1987,actress in a leading role,0,glenn close,fatal attraction
+1988,actress in a leading role,0,glenn close,dangerous liaisons
+2011,actress in a leading role,0,glenn close,albert nobbs
+1947,actress in a supporting role,0,gloria grahame,crossfire
+1952,actress in a supporting role,1,gloria grahame,the bad and the beautiful
+1997,actress in a supporting role,0,gloria stuart,titanic
+1928,actress in a leading role,0,gloria swanson,sadie thompson
+1930,actress in a leading role,0,gloria swanson,the trespasser
+1950,actress in a leading role,0,gloria swanson,sunset blvd
+1960,actress in a supporting role,0,glynis johns,the sundowners
+1969,actress in a supporting role,1,goldie hawn,cactus flower
+1980,actress in a leading role,0,goldie hawn,private benjamin
+1953,actress in a supporting role,0,grace kelly,mogambo
+1954,actress in a leading role,1,grace kelly,the country girl
+1934,actress in a leading role,0,grace moore,one night of love
+1990,actor in a supporting role,0,graham greene,dances with wolves
+1964,actress in a supporting role,0,grayson hall,the night of the iguana
+1939,actress in a leading role,0,greer garson,goodbye mr chips
+1941,actress in a leading role,0,greer garson,blossoms in the dust
+1942,actress in a leading role,1,greer garson,mrs miniver
+1943,actress in a leading role,0,greer garson,madame curie
+1944,actress in a leading role,0,greer garson,mrs parkington
+1945,actress in a leading role,0,greer garson,the valley of decision
+1960,actress in a leading role,0,greer garson,sunrise at campobello
+1997,actor in a supporting role,0,greg kinnear,as good as it gets
+1945,actor in a leading role,0,gregory peck,the keys of the kingdom
+1946,actor in a leading role,0,gregory peck,the yearling
+1947,actor in a leading role,0,gregory peck,gentleman's agreement
+1949,actor in a leading role,0,gregory peck,twelve o'clock high
+1962,actor in a leading role,1,gregory peck,to kill a mockingbird
+1930,actress in a leading role,0,greta garbo,anna christie
+1937,actress in a leading role,0,greta garbo,camille
+1939,actress in a leading role,0,greta garbo,ninotchka
+1998,actress in a leading role,1,gwyneth paltrow,shakespeare in love
+1937,actor in a supporting role,0,h b warner,lost horizon
+2010,actress in a supporting role,0,hailee steinfeld,true grit
+1984,actor in a supporting role,1,haing s ngor,the killing fields
+2007,actor in a supporting role,0,hal holbrook,into the wild
+1999,actor in a supporting role,0,haley joel osment,the sixth sense
+2001,actress in a leading role,1,halle berry,monster's ball
+1946,actor in a supporting role,1,harold russell,the best years of our lives
+1985,actor in a leading role,0,harrison ford,witness
+1939,actor in a supporting role,0,harry carey,mr smith goes to washington
+1991,actor in a supporting role,0,harvey keitel,bugsy
+1939,actress in a supporting role,1,hattie mcdaniel,gone with the wind
+2005,actor in a leading role,0,heath ledger,brokeback mountain
+2008,actor in a supporting role,1,heath ledger,the dark knight
+1932,actress in a leading role,1,helen hayes,the sin of madelon claudet
+1970,actress in a supporting role,1,helen hayes,airport
+1997,actress in a leading role,1,helen hunt,as good as it gets
+2012,actress in a supporting role,0,helen hunt,the sessions
+1994,actress in a supporting role,0,helen mirren,the madness of king george
+2001,actress in a supporting role,0,helen mirren,gosford park
+2006,actress in a leading role,1,helen mirren,the queen
+2009,actress in a leading role,0,helen mirren,the last station
+1997,actress in a leading role,0,helena bonham carter,the wings of the dove
+2010,actress in a supporting role,0,helena bonham carter,the king's speech
+1940,actor in a leading role,0,henry fonda,the grapes of wrath
+1981,actor in a leading role,1,henry fonda,on golden pond
+1942,actor in a supporting role,0,henry travers,mrs miniver
+1959,actress in a supporting role,0,hermione baddeley,room at the top
+1999,actress in a leading role,1,hilary swank,boys don't cry
+2004,actress in a leading role,1,hilary swank,million dollar baby
+1987,actress in a leading role,0,holly hunter,broadcast news
+1993,actress in a leading role,1,holly hunter,the piano
+1993,actress in a supporting role,0,holly hunter,the firm
+2003,actress in a supporting role,0,holly hunter,thirteen
+1950,actress in a supporting role,0,hope emerson,caged
+1957,actress in a supporting role,0,hope lange,peyton place
+1981,actor in a supporting role,0,howard e rollins, jrragtime
+1959,actor in a supporting role,1,hugh griffith,benhur
+1963,actor in a supporting role,0,hugh griffith,tom jones
+2012,actor in a leading role,0,hugh jackman,les misrables
+1944,actor in a supporting role,0,hume cronyn,the seventh cross
+1943,actor in a leading role,0,humphrey bogart,casablanca
+1951,actor in a leading role,1,humphrey bogart,the african queen
+1954,actor in a leading role,0,humphrey bogart,the caine mutiny
+1965,actor in a supporting role,0,ian bannen,the flight of the phoenix
+1981,actor in a supporting role,0,ian holm,chariots of fire
+1998,actor in a leading role,0,ian mckellen,gods and monsters
+2001,actor in a supporting role,0,ian mckellen,the lord of the rings the fellowship of the ring
+1966,actress in a leading role,0,ida kaminska,the shop on main street
+666,idk,0,idk,idk
+2004,actress in a leading role,0,imelda staunton,vera drake
+1943,actress in a leading role,0,ingrid bergman,for whom the bell tolls
+1944,actress in a leading role,1,ingrid bergman,gaslight
+1945,actress in a leading role,0,ingrid bergman,the bells of st mary's
+1948,actress in a leading role,0,ingrid bergman,joan of arc
+1956,actress in a leading role,1,ingrid bergman,anastasia
+1974,actress in a supporting role,1,ingrid bergman,murder on the orient express
+1978,actress in a leading role,0,ingrid bergman,autumn sonata
+1931,actress in a leading role,0,irene dunne,cimarron
+1936,actress in a leading role,0,irene dunne,theodora goes wild
+1937,actress in a leading role,0,irene dunne,the awful truth
+1939,actress in a leading role,0,irene dunne,love affair
+1948,actress in a leading role,0,irene dunne,i remember mama
+1975,actress in a leading role,0,isabelle adjani,the story of adele h
+1989,actress in a leading role,0,isabelle adjani,camille claudel
+2016,actress in a leading role,0,isabelle huppert,elle
+1943,actor in a supporting role,0,j carrol naish,sahara
+1945,actor in a supporting role,0,j carrol naish,a medal for benny
+1968,actor in a supporting role,1,jack albertson,the subject was roses
+1973,actor in a supporting role,0,jack gilford,save the tiger
+1960,actor in a supporting role,0,jack kruschen,the apartment
+1955,actor in a supporting role,1,jack lemmon,mister roberts
+1959,actor in a leading role,0,jack lemmon,some like it hot
+1960,actor in a leading role,0,jack lemmon,the apartment
+1962,actor in a leading role,0,jack lemmon,days of wine and roses
+1973,actor in a leading role,1,jack lemmon,save the tiger
+1979,actor in a leading role,0,jack lemmon,the china syndrome
+1980,actor in a leading role,0,jack lemmon,tribute
+1982,actor in a leading role,0,jack lemmon,missing
+1969,actor in a supporting role,0,jack nicholson,easy rider
+1970,actor in a leading role,0,jack nicholson,five easy pieces
+1973,actor in a leading role,0,jack nicholson,the last detail
+1974,actor in a leading role,0,jack nicholson,chinatown
+1975,actor in a leading role,1,jack nicholson,one flew over the cuckoo's nest
+1981,actor in a supporting role,0,jack nicholson,reds
+1983,actor in a supporting role,1,jack nicholson,terms of endearment
+1985,actor in a leading role,0,jack nicholson,prizzi's honor
+1987,actor in a leading role,0,jack nicholson,ironweed
+1992,actor in a supporting role,0,jack nicholson,a few good men
+1997,actor in a leading role,1,jack nicholson,as good as it gets
+2002,actor in a leading role,0,jack nicholson,about schmidt
+1940,actor in a supporting role,0,jack oakie,the great dictator
+1952,actor in a supporting role,0,jack palance,sudden fear
+1953,actor in a supporting role,0,jack palance,shane
+1991,actor in a supporting role,1,jack palance,city slickers
+1975,actor in a supporting role,0,jack warden,shampoo
+1978,actor in a supporting role,0,jack warden,heaven can wait
+1968,actor in a supporting role,0,jack wild,oliver
+2010,actress in a supporting role,0,jacki weaver,animal kingdom
+2012,actress in a supporting role,0,jacki weaver,silver linings playbook
+1931,actor in a leading role,0,jackie cooper,skippy
+2006,actor in a supporting role,0,jackie earle haley,little children
+1961,actor in a supporting role,0,jackie gleason,the hustler
+2005,actor in a supporting role,0,jake gyllenhaal,brokeback mountain
+1972,actor in a supporting role,0,james caan,the godfather
+1938,actor in a leading role,0,james cagney,angels with dirty faces
+1942,actor in a leading role,1,james cagney,yankee doodle dandy
+1955,actor in a leading role,0,james cagney,love me or leave me
+1998,actor in a supporting role,1,james coburn,affliction
+1981,actor in a supporting role,0,james coco,only when i laugh
+1995,actor in a supporting role,0,james cromwell,babe
+1955,actor in a leading role,0,james dean,east of eden
+1956,actor in a leading role,0,james dean,giant
+1945,actor in a supporting role,1,james dunn,a tree grows in brooklyn
+1970,actor in a leading role,0,james earl jones,the great white hope
+2010,actor in a leading role,0,james franco,127 hours
+1985,actor in a leading role,0,james garner,murphy's romance
+1941,actor in a supporting role,0,james gleason,here comes mr jordan
+1954,actor in a leading role,0,james mason,a star is born
+1966,actor in a supporting role,0,james mason,georgy girl
+1982,actor in a supporting role,0,james mason,the verdict
+1940,actor in a supporting role,0,james stephenson,the letter
+1939,actor in a leading role,0,james stewart,mr smith goes to washington
+1940,actor in a leading role,1,james stewart,the philadelphia story
+1946,actor in a leading role,0,james stewart,it's a wonderful life
+1950,actor in a leading role,0,james stewart,harvey
+1959,actor in a leading role,0,james stewart,anatomy of a murder
+1949,actor in a supporting role,0,james whitmore,battleground
+1975,actor in a leading role,0,james whitmore,give 'em hell harry
+1986,actor in a leading role,0,james woods,salvador
+1996,actor in a supporting role,0,james woods,ghosts of mississippi
+2004,actor in a leading role,1,jamie foxx,ray
+2004,actor in a supporting role,0,jamie foxx,collateral
+1954,actress in a supporting role,0,jan sterling,the high and the mighty
+1970,actress in a leading role,0,jane alexander,the great white hope
+1976,actress in a supporting role,0,jane alexander,all the president's men
+1979,actress in a supporting role,0,jane alexander,kramer vs kramer
+1983,actress in a leading role,0,jane alexander,testament
+1940,actress in a supporting role,1,jane darwell,the grapes of wrath
+1969,actress in a leading role,0,jane fonda,they shoot horses don't they
+1971,actress in a leading role,1,jane fonda,klute
+1977,actress in a leading role,0,jane fonda,julia
+1978,actress in a leading role,1,jane fonda,coming home
+1979,actress in a leading role,0,jane fonda,the china syndrome
+1981,actress in a supporting role,0,jane fonda,on golden pond
+1986,actress in a leading role,0,jane fonda,the morning after
+1946,actress in a leading role,0,jane wyman,the yearling
+1948,actress in a leading role,1,jane wyman,johnny belinda
+1951,actress in a leading role,0,jane wyman,the blue veil
+1954,actress in a leading role,0,jane wyman,magnificent obsession
+1928,actress in a leading role,1,janet gaynor,7th heaven
+1937,actress in a leading role,0,janet gaynor,a star is born
+1960,actress in a supporting role,0,janet leigh,psycho
+1999,actress in a leading role,0,janet mcteer,tumbleweeds
+2011,actress in a supporting role,0,janet mcteer,albert nobbs
+1971,actress in a leading role,0,janet suzman,nicholas and alexandra
+2013,actor in a supporting role,1,jared leto,dallas buyers club
+1973,actor in a supporting role,0,jason miller,the exorcist
+1976,actor in a supporting role,1,jason robards,all the president's men
+1977,actor in a supporting role,1,jason robards,julia
+1980,actor in a supporting role,0,jason robards,melvin and howard
+2000,actor in a leading role,0,javier bardem,before night falls
+2007,actor in a supporting role,1,javier bardem,no country for old men
+2010,actor in a leading role,0,javier bardem,biutiful
+1992,actor in a supporting role,0,jaye davidson,the crying game
+1943,actress in a leading role,0,jean arthur,the more the merrier
+2011,actor in a leading role,1,jean dujardin,the artist
+1952,actress in a supporting role,0,jean hagen,singin' in the rain
+1948,actress in a supporting role,0,jean simmons,hamlet
+1969,actress in a leading role,0,jean simmons,the happy ending
+1949,actress in a leading role,0,jeanne crain,pinky
+1929,actress in a leading role,0,jeanne eagels,the letter
+1972,actress in a supporting role,0,jeannie berlin,the heartbreak kid
+1971,actor in a supporting role,0,jeff bridges,the last picture show
+1974,actor in a supporting role,0,jeff bridges,thunderbolt and lightfoot
+1984,actor in a leading role,0,jeff bridges,starman
+2000,actor in a supporting role,0,jeff bridges,the contender
+2009,actor in a leading role,1,jeff bridges,crazy heart
+2010,actor in a leading role,0,jeff bridges,true grit
+2016,actor in a supporting role,0,jeff bridges,hell or high water
+1950,actor in a supporting role,0,jeff chandler,broken arrow
+2001,actress in a supporting role,1,jennifer connelly,a beautiful mind
+2006,actress in a supporting role,1,jennifer hudson,dreamgirls
+2015,actress in a supporting role,0,jennifer jason leigh,the hateful eight
+1943,actress in a leading role,1,jennifer jones,the song of bernadette
+1944,actress in a supporting role,0,jennifer jones,since you went away
+1945,actress in a leading role,0,jennifer jones,love letters
+1946,actress in a leading role,0,jennifer jones,duel in the sun
+1955,actress in a leading role,0,jennifer jones,love is a manysplendored thing
+2010,actress in a leading role,0,jennifer lawrence,winter's bone
+2012,actress in a leading role,1,jennifer lawrence,silver linings playbook
+2013,actress in a supporting role,0,jennifer lawrence,american hustle
+2015,actress in a leading role,0,jennifer lawrence,joy
+1994,actress in a supporting role,0,jennifer tilly,bullets over broadway
+1990,actor in a leading role,1,jeremy irons,reversal of fortune
+2009,actor in a leading role,0,jeremy renner,the hurt locker
+2010,actor in a supporting role,0,jeremy renner,the town
+2010,actor in a leading role,0,jesse eisenberg,the social network
+2011,actress in a supporting role,0,jessica chastain,the help
+2012,actress in a leading role,0,jessica chastain,zero dark thirty
+1982,actress in a supporting role,1,jessica lange,tootsie
+1982,actress in a leading role,0,jessica lange,frances
+1984,actress in a leading role,0,jessica lange,country
+1985,actress in a leading role,0,jessica lange,sweet dreams
+1989,actress in a leading role,0,jessica lange,music box
+1994,actress in a leading role,1,jessica lange,blue sky
+1989,actress in a leading role,1,jessica tandy,driving miss daisy
+1991,actress in a supporting role,0,jessica tandy,fried green tomatoes
+1978,actress in a leading role,0,jill clayburgh,an unmarried woman
+1979,actress in a leading role,0,jill clayburgh,starting over
+2001,actor in a supporting role,1,jim broadbent,iris
+2014,actor in a supporting role,1,jk simmons,whiplash
+1955,actress in a supporting role,1,jo van fleet,east of eden
+1995,actress in a supporting role,0,joan allen,nixon
+1996,actress in a supporting role,0,joan allen,the crucible
+2000,actress in a leading role,0,joan allen,the contender
+1951,actress in a supporting role,0,joan blondell,the blue veil
+1945,actress in a leading role,1,joan crawford,mildred pierce
+1947,actress in a leading role,0,joan crawford,possessed
+1952,actress in a leading role,0,joan crawford,sudden fear
+1988,actress in a supporting role,0,joan cusack,working girl
+1997,actress in a supporting role,0,joan cusack,in  out
+1940,actress in a leading role,0,joan fontaine,rebecca
+1941,actress in a leading role,1,joan fontaine,suspicion
+1943,actress in a leading role,0,joan fontaine,the constant nymph
+1981,actress in a supporting role,0,joan hackett,only when i laugh
+1945,actress in a supporting role,0,joan lorring,the corn is green
+1992,actress in a supporting role,0,joan plowright,enchanted april
+1957,actress in a leading role,1,joanne woodward,the three faces of eve
+1968,actress in a leading role,0,joanne woodward,rachel rachel
+1973,actress in a leading role,0,joanne woodward,summer wishes winter dreams
+1990,actress in a leading role,0,joanne woodward,mr  mrs bridge
+2000,actor in a supporting role,0,joaquin phoenix,gladiator
+2005,actor in a leading role,0,joaquin phoenix,walk the line
+2012,actor in a leading role,0,joaquin phoenix,the master
+1966,actress in a supporting role,0,jocelyne lagarde,hawaii
+1976,actress in a supporting role,0,jodie foster,taxi driver
+1988,actress in a leading role,1,jodie foster,the accused
+1991,actress in a leading role,1,jodie foster,the silence of the lambs
+1994,actress in a leading role,0,jodie foster,nell
+1955,actor in a supporting role,0,joe mantell,marty
+1980,actor in a supporting role,0,joe pesci,raging bull
+1990,actor in a supporting role,1,joe pesci,good fellas
+1972,actor in a supporting role,1,joel grey,cabaret
+2002,actor in a supporting role,0,john c reilly,chicago
+1967,actor in a supporting role,0,john cassavetes,the dirty dozen
+1945,actor in a supporting role,0,john dall,the corn is green
+1938,actor in a supporting role,0,john garfield,four daughters
+1947,actor in a leading role,0,john garfield,body and soul
+1964,actor in a supporting role,0,john gielgud,becket
+1981,actor in a supporting role,1,john gielgud,arthur
+2010,actor in a supporting role,0,john hawkes,winter's bone
+1973,actor in a supporting role,1,john houseman,the paper chase
+1978,actor in a supporting role,0,john hurt,midnight express
+1980,actor in a leading role,0,john hurt,the elephant man
+1963,actor in a supporting role,0,john huston,the cardinal
+1949,actor in a supporting role,0,john ireland,all the king's men
+1982,actor in a supporting role,0,john lithgow,the world according to garp
+1983,actor in a supporting role,0,john lithgow,terms of endearment
+1984,actor in a supporting role,0,john malkovich,places in the heart
+1993,actor in a supporting role,0,john malkovich,in the line of fire
+1970,actor in a supporting role,0,john marley,love story
+1970,actor in a supporting role,1,john mills,ryan's daughter
+1977,actor in a leading role,0,john travolta,saturday night fever
+1994,actor in a leading role,0,john travolta,pulp fiction
+1949,actor in a leading role,0,john wayne,sands of iwo jima
+1969,actor in a leading role,1,john wayne,true grit
+2003,actor in a leading role,0,johnny depp,pirates of the caribbean the curse of the black pearl
+2004,actor in a leading role,0,johnny depp,finding neverland
+2007,actor in a leading role,0,johnny depp,sweeney todd the demon barber of fleet street
+1969,actor in a leading role,0,jon voight,midnight cowboy
+1978,actor in a leading role,1,jon voight,coming home
+1985,actor in a leading role,0,jon voight,runaway train
+2001,actor in a supporting role,0,jon voight,ali
+2011,actor in a supporting role,0,jonah hill,moneyball
+2013,actor in a supporting role,0,jonah hill,the wolf of wall street
+1948,actor in a supporting role,0,jos ferrer,joan of arc
+1950,actor in a leading role,1,jos ferrer,cyrano de bergerac
+1952,actor in a leading role,0,jos ferrer,moulin rouge
+1937,actor in a supporting role,1,joseph schildkraut,the life of emile zola
+1950,actress in a supporting role,1,josephine hull,harvey
+2008,actor in a supporting role,0,josh brolin,milk
+1963,actress in a supporting role,0,joyce redman,tom jones
+1965,actress in a supporting role,0,joyce redman,othello
+1959,actress in a supporting role,0,juanita moore,imitation of life
+1980,actor in a supporting role,0,judd hirsch,ordinary people
+1999,actor in a supporting role,0,jude law,the talented mr ripley
+2003,actor in a leading role,0,jude law,cold mountain
+1997,actress in a leading role,0,judi dench,mrs brown
+1998,actress in a supporting role,1,judi dench,shakespeare in love
+2000,actress in a supporting role,0,judi dench,chocolat
+2001,actress in a leading role,0,judi dench,iris
+2005,actress in a leading role,0,judi dench,mrs henderson presents
+2006,actress in a leading role,0,judi dench,notes on a scandal
+2013,actress in a leading role,0,judi dench,philomena
+1940,actress in a supporting role,0,judith anderson,rebecca
+1984,actress in a leading role,0,judy davis,a passage to india
+1992,actress in a supporting role,0,judy davis,husbands and wives
+1954,actress in a leading role,0,judy garland,a star is born
+1961,actress in a supporting role,0,judy garland,judgment at nuremberg
+1950,actress in a leading role,1,judy holliday,born yesterday
+1989,actress in a supporting role,0,julia roberts,steel magnolias
+1990,actress in a leading role,0,julia roberts,pretty woman
+2000,actress in a leading role,1,julia roberts,erin brockovich
+2013,actress in a supporting role,0,julia roberts,august osage county
+1997,actress in a supporting role,0,julianne moore,boogie nights
+1999,actress in a leading role,0,julianne moore,the end of the affair
+2002,actress in a leading role,0,julianne moore,far from heaven
+2002,actress in a supporting role,0,julianne moore,the hours
+2014,actress in a leading role,1,julianne moore,still alice
+1964,actress in a leading role,1,julie andrews,mary poppins
+1965,actress in a leading role,0,julie andrews,the sound of music
+1982,actress in a leading role,0,julie andrews,victorvictoria
+1965,actress in a leading role,1,julie christie,darling
+1971,actress in a leading role,0,julie christie,mccabe  mrs miller
+1997,actress in a leading role,0,julie christie,afterglow
+2007,actress in a leading role,0,julie christie,away from her
+1952,actress in a leading role,0,julie harris,the member of the wedding
+1983,actress in a leading role,0,julie walters,educating rita
+2000,actress in a supporting role,0,julie walters,billy elliot
+1996,actress in a supporting role,1,juliette binoche,the english patient
+2000,actress in a leading role,0,juliette binoche,chocolat
+1991,actress in a supporting role,0,juliette lewis,cape fear
+2013,actress in a supporting role,0,june squibb,nebraska
+1979,actor in a supporting role,0,justin henry,kramer vs kramer
+1970,actress in a supporting role,0,karen black,five easy pieces
+1951,actor in a supporting role,1,karl malden,a streetcar named desire
+1954,actor in a supporting role,0,karl malden,on the waterfront
+2000,actress in a supporting role,0,kate hudson,almost famous
+1991,actress in a supporting role,0,kate nelligan,the prince of tides
+1995,actress in a supporting role,0,kate winslet,sense and sensibility
+1997,actress in a leading role,0,kate winslet,titanic
+2001,actress in a supporting role,0,kate winslet,iris
+2004,actress in a leading role,0,kate winslet,eternal sunshine of the spotless mind
+2006,actress in a leading role,0,kate winslet,little children
+2008,actress in a leading role,1,kate winslet,the reader
+2015,actress in a supporting role,0,kate winslet,steve jobs
+1933,actress in a leading role,1,katharine hepburn,morning glory
+1935,actress in a leading role,0,katharine hepburn,alice adams
+1940,actress in a leading role,0,katharine hepburn,the philadelphia story
+1942,actress in a leading role,0,katharine hepburn,woman of the year
+1951,actress in a leading role,0,katharine hepburn,the african queen
+1955,actress in a leading role,0,katharine hepburn,summertime
+1956,actress in a leading role,0,katharine hepburn,the rainmaker
+1959,actress in a leading role,0,katharine hepburn,suddenly last summer
+1962,actress in a leading role,0,katharine hepburn,long day's journey into night
+1967,actress in a leading role,1,katharine hepburn,guess who's coming to dinner
+1968,actress in a leading role,1,katharine hepburn,the lion in winter
+1981,actress in a leading role,1,katharine hepburn,on golden pond
+1967,actress in a supporting role,0,katharine ross,the graduate
+1995,actress in a supporting role,0,kathleen quinlan,apollo 13
+1986,actress in a leading role,0,kathleen turner,peggy sue got married
+1990,actress in a leading role,1,kathy bates,misery
+1998,actress in a supporting role,0,kathy bates,primary colors
+2002,actress in a supporting role,0,kathy bates,about schmidt
+1943,actress in a supporting role,1,katina paxinou,for whom the bell tolls
+1954,actress in a supporting role,0,katy jurado,broken lance
+1968,actress in a supporting role,0,kay medford,funny girl
+2005,actress in a leading role,0,keira knightley,pride  prejudice
+2014,actress in a supporting role,0,keira knightley,the imitation game
+2003,actress in a leading role,0,keisha castlehughes,whale rider
+2003,actor in a supporting role,0,ken watanabe,the last samurai
+1989,actor in a leading role,0,kenneth branagh,henry v
+2011,actor in a supporting role,0,kenneth branagh,my week with marilyn
+1990,actor in a leading role,0,kevin costner,dances with wolves
+1988,actor in a supporting role,1,kevin kline,a fish called wanda
+1951,actor in a supporting role,0,kevin mccarthy,death of a salesman
+1995,actor in a supporting role,1,kevin spacey,the usual suspects
+1999,actor in a leading role,1,kevin spacey,american beauty
+1997,actress in a supporting role,1,kim basinger,la confidential
+1951,actress in a supporting role,1,kim hunter,a streetcar named desire
+1964,actress in a leading role,0,kim stanley,seance on a wet afternoon
+1982,actress in a supporting role,0,kim stanley,frances
+1949,actor in a leading role,0,kirk douglas,champion
+1952,actor in a leading role,0,kirk douglas,the bad and the beautiful
+1956,actor in a leading role,0,kirk douglas,lust for life
+1985,actor in a supporting role,0,klaus maria brandauer,out of africa
+1996,actress in a leading role,0,kristin scott thomas,the english patient
+1957,actress in a leading role,0,lana turner,peyton place
+1946,actor in a leading role,0,larry parks,the jolson story
+1991,actress in a leading role,0,laura dern,rambling rose
+2014,actress in a supporting role,0,laura dern,wild
+2000,actress in a leading role,0,laura linney,you can count on me
+2004,actress in a supporting role,0,laura linney,kinsey
+2007,actress in a leading role,0,laura linney,the savages
+1996,actress in a supporting role,0,lauren bacall,the mirror has two faces
+1993,actor in a leading role,0,laurence fishburne,what's love got to do with it
+1959,actor in a leading role,0,laurence harvey,room at the top
+1939,actor in a leading role,0,laurence olivier,wuthering heights
+1940,actor in a leading role,0,laurence olivier,rebecca
+1946,actor in a leading role,0,laurence olivier,henry v
+1948,actor in a leading role,1,laurence olivier,hamlet
+1960,actor in a leading role,0,laurence olivier,the entertainer
+1965,actor in a leading role,0,laurence olivier,othello
+1972,actor in a leading role,0,laurence olivier,sleuth
+1976,actor in a supporting role,0,laurence olivier,marathon man
+1978,actor in a leading role,0,laurence olivier,the boys from brazil
+1930,actor in a leading role,0,lawrence tibbett,the rogue song
+1951,actress in a supporting role,0,lee grant,detective story
+1970,actress in a supporting role,0,lee grant,the landlord
+1975,actress in a supporting role,1,lee grant,shampoo
+1976,actress in a supporting role,0,lee grant,voyage of the damned
+1954,actor in a supporting role,0,lee j cobb,on the waterfront
+1958,actor in a supporting role,0,lee j cobb,the brothers karamazov
+1965,actor in a leading role,1,lee marvin,cat ballou
+1962,actress in a leading role,0,lee remick,days of wine and roses
+1974,actor in a supporting role,0,lee strasberg,the godfather part ii
+1964,actor in a supporting role,0,lee tracy,the best man
+1989,actress in a supporting role,0,lena olin,enemies a love story
+1951,actor in a supporting role,0,leo genn,quo vadis
+1971,actor in a supporting role,0,leonard frey,fiddler on the roof
+1993,actor in a supporting role,0,leonardo dicaprio,what's eating gilbert grape
+2004,actor in a leading role,0,leonardo dicaprio,the aviator
+2006,actor in a leading role,0,leonardo dicaprio,blood diamond
+2013,actor in a leading role,0,leonardo dicaprio,the wolf of wall street
+2015,actor in a leading role,1,leonardo dicaprio,the revenant
+1982,actress in a supporting role,0,lesley ann warren,victorvictoria
+1977,actress in a supporting role,0,leslie browne,the turning point
+1953,actress in a leading role,0,leslie caron,lili
+1963,actress in a leading role,0,leslie caron,the lshaped room
+1933,actor in a leading role,0,leslie howard,berkeley square
+1938,actor in a leading role,0,leslie howard,pygmalion
+1948,actor in a leading role,0,lew ayres,johnny belinda
+1929,actor in a leading role,0,lewis stone,the patriot
+1993,actor in a leading role,0,liam neeson,schindler's list
+1964,actress in a supporting role,1,lila kedrova,zorba the greek
+1963,actress in a supporting role,0,lilia skala,lilies of the field
+1946,actress in a supporting role,0,lillian gish,duel in the sun
+1975,actress in a supporting role,0,lily tomlin,nashville
+1973,actress in a supporting role,0,linda blair,the exorcist
+1983,actress in a supporting role,1,linda hunt,the year of living dangerously
+1984,actress in a supporting role,0,lindsay crouse,places in the heart
+1931,actor in a leading role,1,lionel barrymore,a free soul
+1972,actress in a leading role,0,liv ullmann,the emigrants
+1976,actress in a leading role,0,liv ullmann,face to face
+1969,actress in a leading role,0,liza minnelli,the sterile cuckoo
+1972,actress in a leading role,1,liza minnelli,cabaret
+1947,actress in a leading role,1,loretta young,the farmer's daughter
+1949,actress in a leading role,0,loretta young,come to the stable
+1990,actress in a supporting role,0,lorraine bracco,good fellas
+1961,actress in a supporting role,0,lotte lenya,the roman spring of mrs stone
+1950,actor in a leading role,0,louis calhern,the magnificent yankee
+1982,actor in a supporting role,1,louis gossett, jran officer and a gentleman
+1928,actress in a leading role,0,louise dresser,a ship comes in
+1975,actress in a leading role,1,louise fletcher,one flew over the cuckoo's nest
+2016,actor in a supporting role,0,lucas hedges,manchester by the sea
+1943,actress in a supporting role,0,lucile watson,watch on the rhine
+1936,actress in a leading role,1,luise rainer,the great ziegfeld
+1937,actress in a leading role,1,luise rainer,the good earth
+2013,actress in a supporting role,1,lupita nyong'o,12 years a slave
+1968,actress in a supporting role,0,lynn carlin,faces
+1932,actress in a leading role,0,lynn fontanne,the guardsman
+1966,actress in a leading role,0,lynn redgrave,georgy girl
+1998,actress in a supporting role,0,lynn redgrave,gods and monsters
+1973,actress in a supporting role,0,madeline kahn,paper moon
+1974,actress in a supporting role,0,madeline kahn,blazing saddles
+2009,actress in a supporting role,0,maggie gyllenhaal,crazy heart
+1953,actress in a leading role,0,maggie mcnamara,the moon is blue
+1965,actress in a supporting role,0,maggie smith,othello
+1969,actress in a leading role,1,maggie smith,the prime of miss jean brodie
+1972,actress in a leading role,0,maggie smith,travels with my aunt
+1978,actress in a supporting role,1,maggie smith,california suite
+1986,actress in a supporting role,0,maggie smith,a room with a view
+2001,actress in a supporting role,0,maggie smith,gosford park
+2016,actor in a supporting role,0,mahershala ali,moonlight
+1966,actor in a supporting role,0,mako,the sand pebbles
+1962,actor in a leading role,0,marcello mastroianni,divorceitalian style
+1977,actor in a leading role,0,marcello mastroianni,a special day
+1987,actor in a leading role,0,marcello mastroianni,dark eyes
+2000,actress in a supporting role,1,marcia gay harden,pollock
+2003,actress in a supporting role,0,marcia gay harden,mystic river
+1995,actress in a supporting role,0,mare winningham,georgia
+1985,actress in a supporting role,0,margaret avery,the color purple
+1971,actress in a supporting role,0,margaret leighton,the gobetween
+1963,actress in a supporting role,1,margaret rutherford,the vips
+1938,actress in a leading role,0,margaret sullavan,three comrades
+1941,actress in a supporting role,0,margaret wycherly,sergeant york
+1936,actress in a supporting role,0,maria ouspenskaya,dodsworth
+1939,actress in a supporting role,0,maria ouspenskaya,love affair
+1996,actress in a supporting role,0,marianne jeanbaptiste,secrets  lies
+1931,actress in a leading role,1,marie dressler,min and bill
+1932,actress in a leading role,0,marie dressler,emma
+1976,actress in a leading role,0,mariechristine barrault,cousin cousine
+1979,actress in a supporting role,0,mariel hemingway,manhattan
+2007,actress in a leading role,1,marion cotillard,la vie en rose
+2014,actress in a leading role,0,marion cotillard,two days one night
+1955,actress in a supporting role,0,marisa pavan,the rose tattoo
+1992,actress in a supporting role,1,marisa tomei,my cousin vinny
+2001,actress in a supporting role,0,marisa tomei,in the bedroom
+2008,actress in a supporting role,0,marisa tomei,the wrestler
+1947,actress in a supporting role,0,marjorie main,the egg and i
+1940,actress in a supporting role,0,marjorie rambeau,primrose path
+1953,actress in a supporting role,0,marjorie rambeau,torch song
+2010,actor in a supporting role,0,mark ruffalo,the kids are all right
+2014,actor in a supporting role,0,mark ruffalo,foxcatcher
+2015,actor in a supporting role,0,mark ruffalo,spotlight
+2015,actor in a supporting role,1,mark rylance,bridge of spies
+2006,actor in a supporting role,0,mark wahlberg,the departed
+1986,actress in a leading role,1,marlee matlin,children of a lesser god
+1931,actress in a leading role,0,marlene dietrich,morocco
+1951,actor in a leading role,0,marlon brando,a streetcar named desire
+1952,actor in a leading role,0,marlon brando,viva zapata
+1953,actor in a leading role,0,marlon brando,julius caesar
+1954,actor in a leading role,1,marlon brando,on the waterfront
+1957,actor in a leading role,0,marlon brando,sayonara
+1972,actor in a leading role,1,marlon brando,the godfather
+1973,actor in a leading role,0,marlon brando,last tango in paris
+1989,actor in a supporting role,0,marlon brando,a dry white season
+1973,actress in a leading role,0,marsha mason,cinderella liberty
+1977,actress in a leading role,0,marsha mason,the goodbye girl
+1979,actress in a leading role,0,marsha mason,chapter two
+1981,actress in a leading role,0,marsha mason,only when i laugh
+1958,actress in a supporting role,0,martha hyer,some came running
+1940,actress in a leading role,0,martha scott,our town
+1965,actor in a supporting role,1,martin balsam,a thousand clowns
+1988,actor in a supporting role,0,martin landau,tucker the man and his dream
+1989,actor in a supporting role,0,martin landau,crimes and misdemeanors
+1994,actor in a supporting role,1,martin landau,ed wood
+1941,actress in a supporting role,1,mary astor,the great lie
+1962,actress in a supporting role,0,mary badham,to kill a mockingbird
+1986,actress in a supporting role,0,mary elizabeth mastrantonio,the color of money
+1990,actress in a supporting role,0,mary mcdonnell,dances with wolves
+1992,actress in a leading role,0,mary mcdonnell,passion fish
+1929,actress in a leading role,1,mary pickford,coquette
+1980,actress in a supporting role,1,mary steenburgen,melvin and howard
+1980,actress in a leading role,0,mary tyler moore,ordinary people
+1960,actress in a supporting role,0,mary ure,sons and lovers
+1995,actor in a leading role,0,massimo troisi,the postman il postino
+1997,actor in a leading role,0,matt damon,good will hunting
+2009,actor in a supporting role,0,matt damon,invictus
+2015,actor in a leading role,0,matt damon,the martian
+2005,actor in a supporting role,0,matt dillon,crash
+2013,actor in a leading role,1,matthew mcconaughey,dallas buyers club
+1958,actress in a supporting role,0,maureen stapleton,lonelyhearts
+1970,actress in a supporting role,0,maureen stapleton,airport
+1978,actress in a supporting role,0,maureen stapleton,interiors
+1981,actress in a supporting role,1,maureen stapleton,reds
+1930,actor in a leading role,0,maurice chevalier,the big pond
+1988,actor in a leading role,0,max von sydow,pelle the conqueror
+2011,actor in a supporting role,0,max von sydow,extremely loud  incredibly close
+1961,actor in a leading role,1,maximilian schell,judgment at nuremberg
+1975,actor in a leading role,0,maximilian schell,the man in the glass booth
+1977,actor in a supporting role,0,maximilian schell,julia
+1933,actress in a leading role,0,may robson,lady for a day
+1985,actress in a supporting role,0,meg tilly,agnes of god
+1988,actress in a leading role,0,melanie griffith,working girl
+1960,actress in a leading role,0,melina mercouri,never on sunday
+1977,actress in a supporting role,0,melinda dillon,close encounters of the third kind
+1981,actress in a supporting role,0,melinda dillon,absence of malice
+2008,actress in a leading role,0,melissa leo,frozen river
+2010,actress in a supporting role,1,melissa leo,the fighter
+2011,actress in a supporting role,0,melissa mccarthy,bridesmaids
+1963,actor in a supporting role,1,melvyn douglas,hud
+1970,actor in a leading role,0,melvyn douglas,i never sang for my father
+1979,actor in a supporting role,1,melvyn douglas,being there
+1949,actress in a supporting role,1,mercedes mccambridge,all the king's men
+1956,actress in a supporting role,0,mercedes mccambridge,giant
+1991,actress in a supporting role,1,mercedes ruehl,the fisher king
+1935,actress in a leading role,0,merle oberon,the dark angel
+1978,actress in a supporting role,0,meryl streep,the deer hunter
+1979,actress in a supporting role,1,meryl streep,kramer vs kramer
+1981,actress in a leading role,0,meryl streep,the french lieutenant's woman
+1982,actress in a leading role,1,meryl streep,sophie's choice
+1983,actress in a leading role,0,meryl streep,silkwood
+1985,actress in a leading role,0,meryl streep,out of africa
+1987,actress in a leading role,0,meryl streep,ironweed
+1988,actress in a leading role,0,meryl streep,a cry in the dark
+1990,actress in a leading role,0,meryl streep,postcards from the edge
+1995,actress in a leading role,0,meryl streep,the bridges of madison county
+1998,actress in a leading role,0,meryl streep,one true thing
+1999,actress in a leading role,0,meryl streep,music of the heart
+2002,actress in a supporting role,0,meryl streep,adaptation
+2006,actress in a leading role,0,meryl streep,the devil wears prada
+2008,actress in a leading role,0,meryl streep,doubt
+2009,actress in a leading role,0,meryl streep,julie  julia
+2011,actress in a leading role,1,meryl streep,the iron lady
+2013,actress in a leading role,0,meryl streep,august osage county
+2014,actress in a supporting role,0,meryl streep,into the woods
+2016,actress in a leading role,0,meryl streep,florence foster jenkins
+1966,actor in a leading role,0,michael caine,alfie
+1972,actor in a leading role,0,michael caine,sleuth
+1983,actor in a leading role,0,michael caine,educating rita
+1986,actor in a supporting role,1,michael caine,hannah and her sisters
+1999,actor in a supporting role,1,michael caine,the cider house rules
+2002,actor in a leading role,0,michael caine,the quiet american
+1945,actor in a supporting role,0,michael chekhov,spellbound
+1999,actor in a supporting role,0,michael clarke duncan,the green mile
+1987,actor in a leading role,1,michael douglas,wall street
+1965,actor in a supporting role,0,michael dunn,ship of fools
+2013,actor in a supporting role,0,michael fassbender,12 years a slave
+2015,actor in a leading role,0,michael fassbender,steve jobs
+1967,actor in a supporting role,0,michael j pollard,bonnie and clyde
+2014,actor in a leading role,0,michael keaton,birdman or the unexpected virtue of ignorance
+1991,actor in a supporting role,0,michael lerner,barton fink
+1980,actor in a supporting role,0,michael o'keefe,the great santini
+1947,actor in a leading role,0,michael redgrave,mourning becomes electra
+2008,actor in a supporting role,0,michael shannon,revolutionary road
+2016,actor in a supporting role,0,michael shannon,nocturnal animals
+1974,actor in a supporting role,0,michael v gazzo,the godfather part ii
+1988,actress in a supporting role,0,michelle pfeiffer,dangerous liaisons
+1989,actress in a leading role,0,michelle pfeiffer,the fabulous baker boys
+1992,actress in a leading role,0,michelle pfeiffer,love field
+2005,actress in a supporting role,0,michelle williams,brokeback mountain
+2010,actress in a leading role,0,michelle williams,blue valentine
+2011,actress in a leading role,0,michelle williams,my week with marilyn
+2016,actress in a supporting role,0,michelle williams,manchester by the sea
+1939,actor in a leading role,0,mickey rooney,babes in arms
+1943,actor in a leading role,0,mickey rooney,the human comedy
+1956,actor in a supporting role,0,mickey rooney,the bold and the brave
+1979,actor in a supporting role,0,mickey rooney,the black stallion
+2008,actor in a leading role,0,mickey rourke,the wrestler
+1977,actor in a supporting role,0,mikhail baryshnikov,the turning point
+1951,actress in a supporting role,0,mildred dunnock,death of a salesman
+1956,actress in a supporting role,0,mildred dunnock,baby doll
+1967,actress in a supporting role,0,mildred natwick,barefoot in the park
+1938,actress in a supporting role,0,miliza korjus,the great waltz
+1997,actress in a supporting role,0,minnie driver,good will hunting
+1995,actress in a supporting role,1,mira sorvino,mighty aphrodite
+1992,actress in a supporting role,0,miranda richardson,damage
+1994,actress in a leading role,0,miranda richardson,tom  viv
+1935,actress in a leading role,0,miriam hopkins,becky sharp
+1936,actor in a supporting role,0,mischa auer,my man godfrey
+1957,actress in a supporting role,1,miyoshi umeki,sayonara
+2009,actress in a supporting role,1,mo'nique,precious based on the novel 'push' by sapphire
+1948,actor in a leading role,0,montgomery clift,the search
+1951,actor in a leading role,0,montgomery clift,a place in the sun
+1953,actor in a leading role,0,montgomery clift,from here to eternity
+1961,actor in a supporting role,0,montgomery clift,judgment at nuremberg
+1942,actor in a leading role,0,monty woolley,the pied piper
+1944,actor in a supporting role,0,monty woolley,since you went away
+1987,actor in a supporting role,0,morgan freeman,street smart
+1989,actor in a leading role,0,morgan freeman,driving miss daisy
+1994,actor in a leading role,0,morgan freeman,the shawshank redemption
+2004,actor in a supporting role,1,morgan freeman,million dollar baby
+2009,actor in a leading role,0,morgan freeman,invictus
+1930,actress in a leading role,0,nancy carroll,the devil's holiday
+1956,actress in a leading role,0,nancy kelly,the bad seed
+1950,actress in a supporting role,0,nancy olson,sunset blvd
+2003,actress in a leading role,0,naomi watts,21 grams
+2012,actress in a leading role,0,naomi watts,the impossible
+2016,actress in a supporting role,0,naomie harris,moonlight
+2004,actress in a supporting role,0,natalie portman,closer
+2010,actress in a leading role,1,natalie portman,black swan
+2016,actress in a leading role,0,natalie portman,jackie
+1955,actress in a supporting role,0,natalie wood,rebel without a cause
+1961,actress in a leading role,0,natalie wood,splendor in the grass
+1963,actress in a leading role,0,natalie wood,love with the proper stranger
+1976,actor in a supporting role,0,ned beatty,network
+1963,actor in a supporting role,0,nick adams,twilight of honor
+1991,actor in a leading role,0,nick nolte,the prince of tides
+1998,actor in a leading role,0,nick nolte,affliction
+2011,actor in a supporting role,0,nick nolte,warrior
+1995,actor in a leading role,1,nicolas cage,leaving las vegas
+2002,actor in a leading role,0,nicolas cage,adaptation
+2001,actress in a leading role,0,nicole kidman,moulin rouge
+2002,actress in a leading role,1,nicole kidman,the hours
+2010,actress in a leading role,0,nicole kidman,rabbit hole
+2016,actress in a supporting role,0,nicole kidman,lion
+1994,actor in a leading role,0,nigel hawthorne,the madness of king george
+1954,actress in a supporting role,0,nina foch,executive suite
+1984,actor in a supporting role,0,noriyuki 'pat' morita,the karate kid
+1987,actress in a supporting role,0,norma aleandro,gaby  a true story
+1930,actress in a leading role,1,norma shearer,the divorcee
+1930,actress in a leading role,0,norma shearer,their own desire
+1931,actress in a leading role,0,norma shearer,a free soul
+1934,actress in a leading role,0,norma shearer,the barretts of wimpole street
+1936,actress in a leading role,0,norma shearer,romeo and juliet
+1938,actress in a leading role,0,norma shearer,marie antoinette
+2011,actress in a supporting role,1,octavia spencer,the help
+2016,actress in a supporting role,0,octavia spencer,hidden figures
+1939,actress in a supporting role,0,olivia de havilland,gone with the wind
+1941,actress in a leading role,0,olivia de havilland,hold back the dawn
+1946,actress in a leading role,1,olivia de havilland,to each his own
+1948,actress in a leading role,0,olivia de havilland,the snake pit
+1949,actress in a leading role,1,olivia de havilland,the heiress
+1987,actress in a supporting role,1,olympia dukakis,moonstruck
+1962,actor in a supporting role,0,omar sharif,lawrence of arabia
+1985,actress in a supporting role,0,oprah winfrey,the color purple
+1941,actor in a leading role,0,orson welles,citizen kane
+1948,actor in a supporting role,0,oscar homolka,i remember mama
+1965,actor in a leading role,0,oskar werner,ship of fools
+2014,actress in a supporting role,1,patricia arquette,boyhood
+2003,actress in a supporting role,0,patricia clarkson,pieces of april
+1941,actress in a supporting role,0,patricia collinge,the little foxes
+1963,actress in a leading role,1,patricia neal,hud
+1968,actress in a leading role,0,patricia neal,the subject was roses
+1962,actress in a supporting role,1,patty duke,the miracle worker
+1956,actress in a supporting role,0,patty mccormack,the bad seed
+2005,actor in a supporting role,0,paul giamatti,cinderella man
+1943,actor in a leading role,1,paul lukas,watch on the rhine
+1929,actor in a leading role,0,paul muni,the valiant
+1933,actor in a leading role,0,paul muni,i am a fugitive from a chain gang
+1935,actor in a leading role,0,paul muni,black fury
+1936,actor in a leading role,1,paul muni,the story of louis pasteur
+1937,actor in a leading role,0,paul muni,the life of emile zola
+1959,actor in a leading role,0,paul muni,the last angry man
+1958,actor in a leading role,0,paul newman,cat on a hot tin roof
+1961,actor in a leading role,0,paul newman,the hustler
+1963,actor in a leading role,0,paul newman,hud
+1967,actor in a leading role,0,paul newman,cool hand luke
+1981,actor in a leading role,0,paul newman,absence of malice
+1982,actor in a leading role,0,paul newman,the verdict
+1986,actor in a leading role,1,paul newman,the color of money
+1994,actor in a leading role,0,paul newman,nobody's fool
+2002,actor in a supporting role,0,paul newman,road to perdition
+1966,actor in a leading role,1,paul scofield,a man for all seasons
+1994,actor in a supporting role,0,paul scofield,quiz show
+1972,actor in a leading role,0,paul winfield,sounder
+1943,actress in a supporting role,0,paulette goddard,so proudly we hail
+1989,actress in a leading role,0,pauline collins,shirley valentine
+1984,actress in a supporting role,1,peggy ashcroft,a passage to india
+1958,actress in a supporting role,0,peggy cass,auntie mame
+1955,actress in a supporting role,0,peggy lee,pete kelly's blues
+1965,actress in a supporting role,0,peggy wood,the sound of music
+1978,actress in a supporting role,0,penelope milford,coming home
+2006,actress in a leading role,0,penlope cruz,volver
+2008,actress in a supporting role,1,penlope cruz,vicky cristina barcelona
+2009,actress in a supporting role,0,penlope cruz,nine
+1993,actor in a supporting role,0,pete postlethwaite,in the name of the father
+1960,actor in a supporting role,0,peter falk,murder inc
+1961,actor in a supporting role,0,peter falk,pocketful of miracles
+1971,actor in a leading role,0,peter finch,sunday bloody sunday
+1976,actor in a leading role,1,peter finch,network
+1977,actor in a supporting role,0,peter firth,equus
+1997,actor in a leading role,0,peter fonda,ulee's gold
+1962,actor in a leading role,0,peter o'toole,lawrence of arabia
+1964,actor in a leading role,0,peter o'toole,becket
+1968,actor in a leading role,0,peter o'toole,the lion in winter
+1969,actor in a leading role,0,peter o'toole,goodbye mr chips
+1972,actor in a leading role,0,peter o'toole,the ruling class
+1980,actor in a leading role,0,peter o'toole,the stunt man
+1982,actor in a leading role,0,peter o'toole,my favorite year
+2006,actor in a leading role,0,peter o'toole,venus
+1964,actor in a leading role,0,peter sellers,dr strangelove or how i learned to stop worrying and love the bomb
+1979,actor in a leading role,0,peter sellers,being there
+1951,actor in a supporting role,0,peter ustinov,quo vadis
+1960,actor in a supporting role,1,peter ustinov,spartacus
+1964,actor in a supporting role,1,peter ustinov,topkapi
+2005,actor in a leading role,1,philip seymour hoffman,capote
+2007,actor in a supporting role,0,philip seymour hoffman,charlie wilson's war
+2008,actor in a supporting role,0,philip seymour hoffman,doubt
+2012,actor in a supporting role,0,philip seymour hoffman,the master
+1961,actress in a leading role,0,piper laurie,the hustler
+1976,actress in a supporting role,0,piper laurie,carrie
+1986,actress in a supporting role,0,piper laurie,children of a lesser god
+2002,actress in a supporting role,0,queen latifah,chicago
+1977,actress in a supporting role,0,quinn cummings,the goodbye girl
+2012,actress in a leading role,0,quvenzhan wallis,beasts of the southern wild
+1998,actress in a supporting role,0,rachel griffiths,hilary and jackie
+2015,actress in a supporting role,0,rachel mcadams,spotlight
+1963,actress in a leading role,0,rachel roberts,this sporting life
+2005,actress in a supporting role,1,rachel weisz,the constant gardener
+1937,actor in a supporting role,0,ralph bellamy,the awful truth
+1993,actor in a supporting role,0,ralph fiennes,schindler's list
+1996,actor in a leading role,0,ralph fiennes,the english patient
+1949,actor in a supporting role,0,ralph richardson,the heiress
+1984,actor in a supporting role,0,ralph richardson,greystoke the legend of tarzan lord of the apes
+1973,actor in a supporting role,0,randy quaid,the last detail
+1945,actor in a leading role,1,ray milland,the lost weekend
+1940,actor in a leading role,0,raymond massey,abe lincoln in illinois
+1957,actor in a supporting role,1,red buttons,sayonara
+2005,actress in a leading role,1,reese witherspoon,walk the line
+2014,actress in a leading role,0,reese witherspoon,wild
+2001,actress in a leading role,0,rene zellweger,bridget jones's diary
+2002,actress in a leading role,0,rene zellweger,chicago
+2003,actress in a supporting role,1,rene zellweger,cold mountain
+1963,actor in a leading role,0,rex harrison,cleopatra
+1964,actor in a leading role,1,rex harrison,my fair lady
+1928,actor in a leading role,0,richard barthelmess,the noose
+1952,actor in a supporting role,0,richard burton,my cousin rachel
+1953,actor in a leading role,0,richard burton,the robe
+1964,actor in a leading role,0,richard burton,becket
+1965,actor in a leading role,0,richard burton,the spy who came in from the cold
+1966,actor in a leading role,0,richard burton,who's afraid of virginia woolf
+1969,actor in a leading role,0,richard burton,anne of the thousand days
+1977,actor in a leading role,0,richard burton,equus
+1970,actor in a supporting role,0,richard castellano,lovers and other strangers
+1931,actor in a leading role,0,richard dix,cimarron
+1977,actor in a leading role,1,richard dreyfuss,the goodbye girl
+1995,actor in a leading role,0,richard dreyfuss,mr holland's opus
+1978,actor in a supporting role,0,richard farnsworth,comes a horseman
+1999,actor in a leading role,0,richard farnsworth,the straight story
+1963,actor in a leading role,0,richard harris,this sporting life
+1990,actor in a leading role,0,richard harris,the field
+1971,actor in a supporting role,0,richard jaeckel,sometimes a great notion
+2008,actor in a leading role,0,richard jenkins,the visitor
+1949,actor in a leading role,0,richard todd,the hasty heart
+1947,actor in a supporting role,0,richard widmark,kiss of death
+2006,actress in a supporting role,0,rinko kikuchi,babel
+1983,actor in a supporting role,0,rip torn,cross creek
+1961,actress in a supporting role,1,rita moreno,west side story
+1988,actor in a supporting role,0,river phoenix,running on empty
+1974,actor in a supporting role,1,robert de niro,the godfather part ii
+1976,actor in a leading role,0,robert de niro,taxi driver
+1978,actor in a leading role,0,robert de niro,the deer hunter
+1980,actor in a leading role,1,robert de niro,raging bull
+1990,actor in a leading role,0,robert de niro,awakenings
+1991,actor in a leading role,0,robert de niro,cape fear
+2012,actor in a supporting role,0,robert de niro,silver linings playbook
+1938,actor in a leading role,0,robert donat,the citadel
+1939,actor in a leading role,1,robert donat,goodbye mr chips
+1992,actor in a leading role,0,robert downey jr,chaplin
+2008,actor in a supporting role,0,robert downey jr,tropic thunder
+1972,actor in a supporting role,0,robert duvall,the godfather
+1979,actor in a supporting role,0,robert duvall,apocalypse now
+1980,actor in a leading role,0,robert duvall,the great santini
+1983,actor in a leading role,1,robert duvall,tender mercies
+1997,actor in a leading role,0,robert duvall,the apostle
+1998,actor in a supporting role,0,robert duvall,a civil action
+2014,actor in a supporting role,0,robert duvall,the judge
+1997,actor in a supporting role,0,robert forster,jackie brown
+1985,actor in a supporting role,0,robert loggia,jagged edge
+1945,actor in a supporting role,0,robert mitchum,g i joe
+1937,actor in a leading role,0,robert montgomery,night must fall
+1941,actor in a leading role,0,robert montgomery,here comes mr jordan
+1938,actor in a supporting role,0,robert morley,marie antoinette
+1982,actor in a supporting role,0,robert preston,victorvictoria
+1973,actor in a leading role,0,robert redford,the sting
+1947,actor in a supporting role,0,robert ryan,crossfire
+1966,actor in a supporting role,0,robert shaw,a man for all seasons
+1956,actor in a supporting role,0,robert stack,written on the wind
+1953,actor in a supporting role,0,robert strauss,stalag 17
+1959,actor in a supporting role,0,robert vaughn,the young philadelphians
+1998,actor in a leading role,1,roberto benigni,life is beautiful
+1987,actor in a leading role,0,robin williams,good morning vietnam
+1989,actor in a leading role,0,robin williams,dead poets society
+1991,actor in a leading role,0,robin williams,the fisher king
+1997,actor in a supporting role,1,robin williams,good will hunting
+1956,actor in a leading role,0,rock hudson,giant
+1954,actor in a supporting role,0,rod steiger,on the waterfront
+1965,actor in a leading role,0,rod steiger,the pawnbroker
+1967,actor in a leading role,1,rod steiger,in the heat of the night
+1937,actor in a supporting role,0,roland young,topper
+1968,actor in a leading role,0,ron moody,oliver
+1930,actor in a leading role,0,ronald colman,bulldog drummond
+1942,actor in a leading role,0,ronald colman,random harvest
+1947,actor in a leading role,1,ronald colman,a double life
+1975,actress in a supporting role,0,ronee blakley,nashville
+2011,actress in a leading role,0,rooney mara,the girl with the dragon tattoo
+2015,actress in a supporting role,0,rooney mara,carol
+1942,actress in a leading role,0,rosalind russell,my sister eileen
+1946,actress in a leading role,0,rosalind russell,sister kenny
+1947,actress in a leading role,0,rosalind russell,mourning becomes electra
+1958,actress in a leading role,0,rosalind russell,auntie mame
+2014,actress in a leading role,0,rosamund pike,gone girl
+1994,actress in a supporting role,0,rosemary harris,tom  viv
+1993,actress in a supporting role,0,rosie perez,fearless
+1971,actor in a supporting role,0,roy scheider,the french connection
+1979,actor in a leading role,0,roy scheider,all that jazz
+2007,actress in a supporting role,0,ruby dee,american gangster
+1969,actor in a supporting role,0,rupert crosse,the reivers
+1957,actor in a supporting role,0,russ tamblyn,peyton place
+1999,actor in a leading role,0,russell crowe,the insider
+2000,actor in a leading role,1,russell crowe,gladiator
+2001,actor in a leading role,0,russell crowe,a beautiful mind
+1929,actress in a leading role,0,ruth chatterton,madame x
+1930,actress in aleading role,0,ruth chatterton,sarah and son
+1965,actress in a supporting role,0,ruth gordon,inside daisy clover
+1968,actress in a supporting role,1,ruth gordon,rosemary's baby
+1940,actress in a supporting role,0,ruth hussey,the philadelphia story
+2016,actress in a leading role,0,ruth negga,loving
+2006,actor in a leading role,0,ryan gosling,half nelson
+2016,actor in a leading role,0,ryan gosling,la la land
+1970,actor in a leading role,0,ryan o'neal,love story
+1955,actor in a supporting role,0,sal mineo,rebel without a cause
+1960,actor in a supporting role,0,sal mineo,exodus
+1979,actress in a leading role,1,sally field,norma rae
+1984,actress in a leading role,1,sally field,places in the heart
+2012,actress in a supporting role,0,sally field,lincoln
+2013,actress in a supporting role,0,sally hawkins,blue jasmine
+1970,actress in a supporting role,1,sally kellerman,mash
+1987,actress in a leading role,0,sally kirkland,anna
+2002,actress in a leading role,0,salma hayek,frida
+1950,actor in a supporting role,0,sam jaffe,the asphalt jungle
+1983,actor in a supporting role,0,sam shepard,the right stuff
+1984,actor in a leading role,0,sam waterston,the killing fields
+1965,actress in a leading role,0,samantha eggar,the collector
+1999,actress in a supporting role,0,samantha morton,sweet and lowdown
+2003,actress in a leading role,0,samantha morton,in america
+1994,actor in a supporting role,0,samuel l jackson,pulp fiction
+2009,actress in a leading role,1,sandra bullock,the blind side
+2013,actress in a leading role,0,sandra bullock,gravity
+1966,actress in a supporting role,1,sandy dennis,who's afraid of virginia woolf
+2007,actress in a supporting role,0,saoirse ronan,atonement
+2015,actress in a leading role,0,saoirse ronan,brooklyn
+1941,actress in a supporting role,0,sara allgood,how green was my valley
+1970,actress in a leading role,0,sarah miles,ryan's daughter
+1987,actor in a supporting role,1,sean connery,the untouchables
+1995,actor in a leading role,0,sean penn,dead man walking
+1999,actor in a leading role,0,sean penn,sweet and lowdown
+2001,actor in a leading role,0,sean penn,i am sam
+2003,actor in a leading role,1,sean penn,mystic river
+2008,actor in a leading role,1,sean penn,milk
+1957,actor in a supporting role,0,sessue hayakawa,the bridge on the river kwai
+1968,actor in a supporting role,0,seymour cassel,faces
+1995,actress in a leading role,0,sharon stone,casino
+1951,actress in a leading role,0,shelley winters,a place in the sun
+1959,actress in a supporting role,1,shelley winters,the diary of anne frank
+1965,actress in a supporting role,1,shelley winters,a patch of blue
+1972,actress in a supporting role,0,shelley winters,the poseidon adventure
+1952,actress in a leading role,1,shirley booth,come back little sheba
+1960,actress in a supporting role,1,shirley jones,elmer gantry
+1960,actress in a supporting role,0,shirley knight,the dark at the top of the stairs
+1962,actress in a supporting role,0,shirley knight,sweet bird of youth
+1958,actress in a leading role,0,shirley maclaine,some came running
+1960,actress in a leading role,0,shirley maclaine,the apartment
+1963,actress in a leading role,0,shirley maclaine,irma la douce
+1977,actress in a leading role,0,shirley maclaine,the turning point
+1983,actress in a leading role,1,shirley maclaine,terms of endearment
+2003,actress in a supporting role,0,shohreh aghdashloo,house of sand and fog
+1958,actor in a leading role,0,sidney poitier,the defiant ones
+1963,actor in a leading role,1,sidney poitier,lilies of the field
+1986,actress in a leading role,0,sigourney weaver,aliens
+1988,actress in a leading role,0,sigourney weaver,gorillas in the mist
+1988,actress in a supporting role,0,sigourney weaver,working girl
+1959,actress in a leading role,1,simone signoret,room at the top
+1965,actress in a leading role,0,simone signoret,ship of fools
+1956,actor in a leading role,0,sir laurence olivier,richard iii
+1976,actress in a leading role,0,sissy spacek,carrie
+1980,actress in a leading role,1,sissy spacek,coal miner's daughter
+1982,actress in a leading role,0,sissy spacek,missing
+1984,actress in a leading role,0,sissy spacek,the river
+1986,actress in a leading role,0,sissy spacek,crimes of the heart
+2001,actress in a leading role,0,sissy spacek,in the bedroom
+1968,actress in a supporting role,0,sondra locke,the heart is a lonely hunter
+1961,actress in a leading role,1,sophia loren,two women
+1964,actress in a leading role,0,sophia loren,marriage italian style
+2004,actress in a supporting role,0,sophie okonedo,hotel rwanda
+1936,actor in a leading role,0,spencer tracy,san francisco
+1937,actor in a leading role,1,spencer tracy,captains courageous
+1938,actor in a leading role,1,spencer tracy,boys town
+1950,actor in a leading role,0,spencer tracy,father of the bride
+1955,actor in a leading role,0,spencer tracy,bad day at black rock
+1958,actor in a leading role,0,spencer tracy,the old man and the sea
+1960,actor in a leading role,0,spencer tracy,inherit the wind
+1961,actor in a leading role,0,spencer tracy,judgment at nuremberg
+1967,actor in a leading role,0,spencer tracy,guess who's coming to dinner
+1938,actress in a supporting role,0,spring byington,you can't take it with you
+1964,actor in a supporting role,0,stanley holloway,my fair lady
+2009,actor in a supporting role,0,stanley tucci,the lovely bones
+1992,actor in a leading role,0,stephen rea,the crying game
+2014,actor in a leading role,0,steve carell,foxcatcher
+1966,actor in a leading role,0,steve mcqueen,the sand pebbles
+1993,actress in a leading role,0,stockard channing,six degrees of separation
+1936,actor in a supporting role,0,stuart erwin,pigskin parade
+1961,actor in a leading role,0,stuart whitman,the mark
+1947,actress in a leading role,0,susan hayward,smashupthe story of a woman
+1949,actress in a leading role,0,susan hayward,my foolish heart
+1952,actress in a leading role,0,susan hayward,with a song in my heart
+1955,actress in a leading role,0,susan hayward,i'll cry tomorrow
+1958,actress in a leading role,1,susan hayward,i want to live
+1959,actress in a supporting role,0,susan kohner,imitation of life
+1942,actress in a supporting role,0,susan peters,random harvest
+1981,actress in a leading role,0,susan sarandon,atlantic city
+1991,actress in a leading role,0,susan sarandon,thelma  louise
+1992,actress in a leading role,0,susan sarandon,lorenzo's oil
+1994,actress in a leading role,0,susan sarandon,the client
+1995,actress in a leading role,1,susan sarandon,dead man walking
+1972,actress in a supporting role,0,susan tyrrell,fat city
+1969,actress in a supporting role,0,susannah york,they shoot horses don't they
+1941,actor in a supporting role,0,sydney greenstreet,the maltese falcon
+1976,actor in a leading role,0,sylvester stallone,rocky
+2015,actor in a supporting role,0,sylvester stallone,creed
+1969,actress in a supporting role,0,sylvia miles,midnight cowboy
+1975,actress in a supporting role,0,sylvia miles,farewell my lovely
+1973,actress in a supporting role,0,sylvia sidney,summer wishes winter dreams
+1974,actress in a supporting role,0,talia shire,the godfather part ii
+1976,actress in a leading role,0,talia shire,rocky
+2008,actress in a supporting role,0,taraji p henson,the curious case of benjamin button
+1973,actress in a supporting role,1,tatum o'neal,paper moon
+1962,actor in a supporting role,0,telly savalas,birdman of alcatraz
+1962,actor in a supporting role,0,terence stamp,billy budd
+1941,actress in a supporting role,0,teresa wright,the little foxes
+1942,actress in a supporting role,1,teresa wright,mrs miniver
+1942,actress in a leading role,0,teresa wright,the pride of the yankees
+1982,actress in a supporting role,0,teri garr,tootsie
+2005,actor in a leading role,0,terrence howard,hustle  flow
+1952,actress in a supporting role,0,terry moore,come back little sheba
+1986,actress in a supporting role,0,tess harper,crimes of the heart
+1950,actress in a supporting role,0,thelma ritter,all about eve
+1951,actress in a supporting role,0,thelma ritter,the mating season
+1952,actress in a supporting role,0,thelma ritter,with a song in my heart
+1953,actress in a supporting role,0,thelma ritter,pickup on south street
+1959,actress in a supporting role,0,thelma ritter,pillow talk
+1962,actress in a supporting role,0,thelma ritter,birdman of alcatraz
+1958,actor in a supporting role,0,theodore bikel,the defiant ones
+1947,actor in a supporting role,0,thomas gomez,ride the pink horse
+2004,actor in a supporting role,0,thomas haden church,sideways
+1937,actor in a supporting role,0,thomas mitchell,the hurricane
+1939,actor in a supporting role,1,thomas mitchell,stagecoach
+2007,actress in a supporting role,1,tilda swinton,michael clayton
+2003,actor in a supporting role,1,tim robbins,mystic river
+1995,actor in a supporting role,0,tim roth,rob roy
+1980,actor in a supporting role,1,timothy hutton,ordinary people
+1986,actor in a supporting role,0,tom berenger,platoon
+1983,actor in a leading role,0,tom conti,reuben reuben
+1965,actor in a supporting role,0,tom courtenay,doctor zhivago
+1983,actor in a leading role,0,tom courtenay,the dresser
+1989,actor in a leading role,0,tom cruise,born on the fourth of july
+1996,actor in a leading role,0,tom cruise,jerry maguire
+1999,actor in a supporting role,0,tom cruise,magnolia
+1988,actor in a leading role,0,tom hanks,big
+1993,actor in a leading role,1,tom hanks,philadelphia
+1994,actor in a leading role,1,tom hanks,forrest gump
+1998,actor in a leading role,0,tom hanks,saving private ryan
+2000,actor in a leading role,0,tom hanks,cast away
+2015,actor in a supporting role,0,tom hardy,the revenant
+1984,actor in a leading role,0,tom hulce,amadeus
+1954,actor in a supporting role,0,tom tully,the caine mutiny
+2001,actor in a leading role,0,tom wilkinson,in the bedroom
+2007,actor in a supporting role,0,tom wilkinson,michael clayton
+1991,actor in a supporting role,0,tommy lee jones,jfk
+1993,actor in a supporting role,1,tommy lee jones,the fugitive
+2007,actor in a leading role,0,tommy lee jones,in the valley of elah
+2012,actor in a supporting role,0,tommy lee jones,lincoln
+1999,actress in a supporting role,0,toni collette,the sixth sense
+1958,actor in a leading role,0,tony curtis,the defiant ones
+1971,actor in a leading role,0,topol,fiddler on the roof
+1960,actor in a leading role,0,trevor howard,sons and lovers
+1977,actress in a supporting role,0,tuesday weld,looking for mr goodbar
+1994,actress in a supporting role,0,uma thurman,pulp fiction
+1961,actress in a supporting role,0,una merkel,summer and smoke
+1974,actress in a supporting role,0,valentina cortese,day for night
+1974,actress in a leading role,0,valerie perrine,lenny
+1942,actor in a supporting role,1,van heflin,johnny eager
+1966,actress in a leading role,0,vanessa redgrave,morgan
+1968,actress in a leading role,0,vanessa redgrave,isadora
+1971,actress in a leading role,0,vanessa redgrave,mary queen of scots
+1977,actress in a supporting role,1,vanessa redgrave,julia
+1984,actress in a leading role,0,vanessa redgrave,the bostonians
+1992,actress in a supporting role,0,vanessa redgrave,howards end
+2009,actress in a supporting role,0,vera farmiga,up in the air
+1962,actor in a supporting role,0,victor buono,what ever happened to baby jane
+1935,actor in a leading role,1,victor mclaglen,the informer
+1952,actor in a supporting role,0,victor mclaglen,the quiet man
+2007,actor in a leading role,0,viggo mortensen,eastern promises
+2016,actor in a leading role,0,viggo mortensen,captain fantastic
+1973,actor in a supporting role,0,vincent gardenia,bang the drum slowly
+1987,actor in a supporting role,0,vincent gardenia,moonstruck
+2008,actress in a supporting role,0,viola davis,doubt
+2011,actress in a leading role,0,viola davis,the help
+2016,actress in a supporting role,0,viola davis,fences
+2004,actress in a supporting role,0,virginia madsen,sideways
+1957,actor in a supporting role,0,vittorio de sica,a farewell to arms
+1939,actress in a leading role,1,vivien leigh,gone with the wind
+1951,actress in a leading role,1,vivien leigh,a streetcar named desire
+1966,actress in a supporting role,0,vivien merchant,alfie
+1930,actor in a leading role,0,wallace beery,the big house
+1932,actor in a leading role,1,wallace beery,the champ
+1936,actor in a supporting role,1,walter brennan,come and get it
+1938,actor in a supporting role,1,walter brennan,kentucky
+1940,actor in a supporting role,1,walter brennan,the westerner
+1941,actor in a supporting role,0,walter brennan,sergeant york
+1936,actor in a leading role,0,walter huston,dodsworth
+1941,actor in a leading role,0,walter huston,all that money can buy
+1942,actor in a supporting role,0,walter huston,yankee doodle dandy
+1948,actor in a supporting role,1,walter huston,the treasure of the sierra madre
+1966,actor in a supporting role,1,walter matthau,the fortune cookie
+1971,actor in a leading role,0,walter matthau,kotch
+1975,actor in a leading role,0,walter matthau,the sunshine boys
+1942,actor in a leading role,0,walter pidgeon,mrs miniver
+1943,actor in a leading role,0,walter pidgeon,madame curie
+1929,actor in a leading role,1,warner baxter,in old arizona
+1967,actor in a leading role,0,warren beatty,bonnie and clyde
+1978,actor in a leading role,0,warren beatty,heaven can wait
+1981,actor in a leading role,0,warren beatty,reds
+1991,actor in a leading role,0,warren beatty,bugsy
+1938,actress in a leading role,0,wendy hiller,pygmalion
+1958,actress in a supporting role,1,wendy hiller,separate tables
+1966,actress in a supporting role,0,wendy hiller,a man for all seasons
+1985,actress in a leading role,0,whoopi goldberg,the color purple
+1990,actress in a supporting role,1,whoopi goldberg,ghost
+2001,actor in a leading role,0,will smith,ali
+2006,actor in a leading role,0,will smith,the pursuit of happyness
+1986,actor in a supporting role,0,willem dafoe,platoon
+2000,actor in a supporting role,0,willem dafoe,shadow of the vampire
+1942,actor in a supporting role,0,william bendix,wake island
+1946,actor in a supporting role,0,william demarest,the jolson story
+1940,actor in a supporting role,0,william gargan,they knew what they wanted
+1996,actor in a supporting role,0,william h macy,fargo
+1985,actor in a supporting role,0,william hickey,prizzi's honor
+1950,actor in a leading role,0,william holden,sunset blvd
+1953,actor in a leading role,1,william holden,stalag 17
+1976,actor in a leading role,0,william holden,network
+1985,actor in a leading role,1,william hurt,kiss of the spider woman
+1986,actor in a leading role,0,william hurt,children of a lesser god
+1987,actor in a leading role,0,william hurt,broadcast news
+2005,actor in a supporting role,0,william hurt,a history of violence
+1934,actor in a leading role,0,william powell,the thin man
+1936,actor in a leading role,0,william powell,my man godfrey
+1947,actor in a leading role,0,william powell,life with father
+1993,actress in a supporting role,0,winona ryder,the age of innocence
+1994,actress in a leading role,0,winona ryder,little women
+1977,actor in a leading role,0,woody allen,annie hall
+1996,actor in a leading role,0,woody harrelson,the people vs larry flynt
+2009,actor in a supporting role,0,woody harrelson,the messenger
+1956,actor in a leading role,1,yul brynner,the king and i
